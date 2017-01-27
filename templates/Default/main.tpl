@@ -191,8 +191,8 @@
                 <header id="header-animate" class="header header4">
                     <div id="logo">
                         <div class="container">
-                            <a href="index.html" title="Trend Salon">
-                                <img class="normal_logo" src="{THEME}/images/logo.png" alt="Trend Salon" title="Trend Salon" width="230" height="55" />
+                            <a href="#" title="Bella Salon">
+                                <img class="normal_logo" src="{THEME}/images/logo.png" title="Bella Salon" />
                                 <!--<img class="retina_logo" src="{THEME}/images/logo%402x.png" alt="Trend Salon" title="Trend Salon" style="width:460px; height:110px;" width="460" height="110" />-->
                             </a>
                         </div>
@@ -202,8 +202,8 @@
                             <div id="primary-menu">
                                 <nav id="main-menu">
                                     <div id="sticky-logo">
-                                        <a href="index.html" title="Trend Salon">
-                                            <img class="normal_logo" src="{THEME}/images/logo.png" alt="Trend Salon" title="Trend Salon" width="230" height="55" />
+                                        <a href="" title="Bella Salon">
+                                            <img class="normal_logo" src="{THEME}/images/logo.png" title="Bella Salon" />
                                             <!--<img class="retina_logo" src="wp-content/themes/trendsalon/images/logo%402x.png" alt="Trend Salon" title="Trend Salon" style="width:460px; height:110px;" width="460" height="110" />-->
                                         </a>
                                     </div>
@@ -245,8 +245,7 @@
                 </header>
             </div>
             <div class="dt-sc-main-slider" id="dt-sc-rev-slider">
-                <link href="http://fonts.googleapis.com/css?family=Playfair+Display%3A900%2C400%2C700%2Citalic" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
-                <link href="http://fonts.googleapis.com/css?family=Lobster%3A400" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
+
                 <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullscreen-container" style="background-color:transparent;padding:0px;">
                     <!-- START REVOLUTION SLIDER 5.2.6 fullscreen mode -->
                     <div id="rev_slider_1_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.2.6">
@@ -493,8 +492,8 @@
             </div>
             <div id="main">
                 <div id="post-8428" class="post-8428 page type-page status-publish hentry">
-                    <div class="dt-sc-content-highlighter     " style="width:100%;           position:relative;    bottom:160px;  margin:-15px 0 0;">
-                        <div class="full-width-section   dark-parallax-content  ">
+                    <div class="dt-sc-content-highlighter" style="width:100%;position:relative;bottom:30px; margin:-15px 0 0;">
+                        <div class="full-width-section dark-parallax-content  ">
                             <div class="container">
                                 <div id="scrolldown" class="aligncenter">
                                     <a href="#dtmilestones"><span class="dt-sc-scrolldown-image animate" data-animation="fadeIn" data-delay="600"></span><br />Scroll To Milestones</a>
@@ -511,114 +510,116 @@
                                         <li><strong>Sunday:</strong> Closed</li>
                                     </ul>
                                 </div>
-                                <div class="column dt-sc-one-third     text-alignright" style="         "><a class="dt-sc-button dt-sc-btn-eff2 medium  " target="_blank" href="appointment-scheduler/index.html"><span class="fa fa-pencil-square-o"></span>Book an Appointment</a>
+                                <div class="column dt-sc-one-third text-alignright"><a class="dt-sc-button dt-sc-btn-eff2 medium  " target="_blank" href="appointment-scheduler/index.html"><span class="fa fa-pencil-square-o"></span>Book an Appointment</a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="full-width-section    ">
+                    <div class="full-width-section">
                         <div class="container">
-                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Welcome to Trend Salon</h2>
+                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Үйлчилгээний төрөл</h2>
                             <p class="text-aligncenter">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at.
                                 <br /> Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                             <div class="dt-sc-margin80"></div>
-                            <div class="column dt-sc-one-fourth    first " style="         ">
+                            <div class="column dt-sc-one-fourth first">
                                 <div class="dt-sc-ico-content type17  ">
                                     <div class="dt-sc-icon-thumb">
-                                        <img src="{THEME}/images/hair_cutting.jpg" title="Cutting &amp; Styling " alt="Cutting &amp; Styling " />
+                                        <img src="{THEME}/images/bella/service2.jpg" title="Энгийн будалт"/>
                                     </div>
-                                    <div class="custom-icon"><img src="{THEME}/images/06/cutting-icon.png" title="Cutting &amp; Styling " alt="Cutting &amp; Styling " />
+                                    <div class="custom-icon"><img src="{THEME}/images/06/cutting-icon.png" title="Энгийн будалт"/>
                                     </div>
-                                    <h4><a href="#">Cutting &amp; Styling </a></h4>
+                                    <h4><a href="#">Энгийн будалт</a></h4>
                                 </div>
                             </div>
-                            <div class="column dt-sc-one-fourth     " style="         ">
+                            <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-ico-content type17  ">
                                     <div class="dt-sc-icon-thumb">
-                                        <img src="{THEME}/images/06/beard-cutting.jpg" title="Beard Cutting" alt="Beard Cutting" />
+                                        <img src="{THEME}/images/bella/service1.jpg" title="Гоёлын будалт"/>
                                     </div>
-                                    <div class="custom-icon"><img src="{THEME}/images/06/coloring-icon.png" title="Beard Cutting" alt="Beard Cutting" />
+                                    <div class="custom-icon"><img src="{THEME}/images/06/coloring-icon.png" title="Гоёлын будалт"/>
                                     </div>
-                                    <h4><a href="#">Beard Cutting</a></h4>
+                                    <h4><a href="#">Гоёлын будалт</a></h4>
                                 </div>
                             </div>
-                            <div class="column dt-sc-one-fourth     " style="         ">
+                            <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-ico-content type17  ">
                                     <div class="dt-sc-icon-thumb">
-                                        <img src="{THEME}/images/06/hair_coloring.jpg" title="Coloring &amp; Styling" alt="Coloring &amp; Styling" />
+                                        <img src="{THEME}/images/bella/service3.jpg" title="Ганцааричлсан сургалт"/>
                                     </div>
-                                    <div class="custom-icon"><img src="{THEME}/images/06/heater-icon.png" title="Coloring &amp; Styling" alt="Coloring &amp; Styling" />
+                                    <div class="custom-icon"><img src="{THEME}/images/06/heater-icon.png" title="Ганцааричлсан сургалт"/>
                                     </div>
-                                    <h4><a href="#">Coloring &amp; Styling</a></h4>
+                                     <h4><a href="#">Ганцааричлсан сургалт</a></h4>
                                 </div>
                             </div>
-                            <div class="column dt-sc-one-fourth     " style="         ">
+                            <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-ico-content type17  ">
                                     <div class="dt-sc-icon-thumb">
-                                        <img src="{THEME}/images/06/facial.jpg" title="Facial &amp; Skin Therapy" alt="Facial &amp; Skin Therapy" />
+                                        <img src="{THEME}/images/bella/service4.jpg" title="Групп сургалт" />
                                     </div>
-                                    <div class="custom-icon"><img src="{THEME}/images/06/facial-icon.png" title="Facial &amp; Skin Therapy" alt="Facial &amp; Skin Therapy" />
+                                    <div class="custom-icon"><img src="{THEME}/images/06/facial-icon.png" title="Групп сургалтГрупп сургалт" />
                                     </div>
-                                    <h4><a href="#">Facial &amp; Skin Therapy</a></h4>
+                                   	<h4><a href="#">Групп сургалт</a></h4>
                                 </div>
                             </div>
                             <div class="dt-sc-margin100"></div>
                         </div>
                     </div>
                     <div class="full-width-section dt-sc-parallax   " style="background-image:url({THEME}/images/parallax-offer.jpg);background-attachment:fixed;" data-position="">
-                        <div class="full-width-section-inner    color-overlay" style="background-color:rgba(0,0,0,0.5);padding:90px 0;">
+                        <div class="full-width-section-inner    color-overlay" style="background-color:rgba(0,0,0,0.5);padding:30px 0;">
                             <div class="container">
-                                <h2 class="dt-sc-border-title  aligncenter  animate" style="color:#ffffff;" data-animation="flipInY" data-delay="200">Our Latest Offers</h2>
+                                <h2 class="dt-sc-border-title  aligncenter  animate" style="color:#ffffff;" data-animation="flipInY" data-delay="200">Манай шилдэг артистууд</h2>
                                 <div class="dt-sc-margin40"></div>
-                                <div class="column dt-sc-one-fourth dark-parallax-content   first " style="         ">
+                                <!--<div class="column dt-sc-one-fourth dark-parallax-content first">
                                     <h3 class="   ">Our Salon <strong>Offers</strong></h3>
                                     <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam quis nostrud.</p>
                                     <div class="dt-sc-margin20"></div><img class="" src="{THEME}/images/06/offer-price.png" alt="" title="" />
                                     <div class="dt-sc-margin20"></div>
                                     <p class="dt-sc-contact-info "><i class="fa fa-calendar"></i>June 5th to August 5th</p>
                                     <p class="dt-sc-contact-info "><i class="fa fa-map-marker"></i>All over London</p>
-                                </div>
-                                <div class="column dt-sc-three-fourth     " style="         ">
+                                </div>-->
+                                <div class="column dt-sc-three-fourth">
                                     <div class="dt-sc-content-carousel-wrapper " data-autoscroll="" data-scroll="">
-                                        <div class="dt-sc-content-carousel " data-columns="3">
-                                            <div class="column dt-sc-one-third     " style="         ">
-                                                <div class="dt-sc-ico-content type15    ">
-                                                    <div class="custom-icon "><img src="{THEME}/images/06/offer1.jpg" title="Aromatheraphy" alt="Aromatheraphy" />
+                                        <div class="dt-sc-content-carousel" style="width:1170px" data-columns="4">
+                                            <div class="column dt-sc-one-third">
+                                                <div class="dt-sc-ico-content type15">
+                                                    <div class="custom-icon "><img src="{THEME}/images/bella/bella.jpg" title="Aromatheraphy" alt="Aromatheraphy" />
                                                     </div>
-                                                    <h4><a href="#">Aromatheraphy</a></h4>
-                                                    <p>$200</p><a class="dt-sc-button dt-sc-btn-eff3" href="#"> View Details</a>
+                                                    <h4><a href="#">Белла</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third     " style="         ">
-                                                <div class="dt-sc-ico-content type15    ">
-                                                    <div class="custom-icon "><img src="{THEME}/images/06/offer2.jpg" title="Ayurveda Spa" alt="Ayurveda Spa" />
+                                            <div class="column dt-sc-one-third">
+                                                <div class="dt-sc-ico-content type15">
+                                                    <div class="custom-icon "><img src="{THEME}/images/bella/daria.jpg" title="Ayurveda Spa" alt="Ayurveda Spa" />
                                                     </div>
-                                                    <h4><a href="#">Ayurveda Spa</a></h4>
-                                                    <p>$300</p><a class="dt-sc-button dt-sc-btn-eff3" href="#"> View Details</a>
+                                                    <h4><a href="#">Дариа</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third     " style="         ">
-                                                <div class="dt-sc-ico-content type15    ">
-                                                    <div class="custom-icon "><img src="{THEME}/images/offer-img3.jpg" title="Luxury Spa" alt="Luxury Spa" />
+                                            <div class="column dt-sc-one-third">
+                                                <div class="dt-sc-ico-content type15">
+                                                    <div class="custom-icon "><img src="{THEME}/images/bella/ulzii.jpg" title="Luxury Spa" alt="Luxury Spa" />
                                                     </div>
-                                                    <h4><a href="#">Luxury Spa</a></h4>
-                                                    <p>$400</p><a class="dt-sc-button dt-sc-btn-eff3" href="#"> View Details</a>
+                                                    <h4><a href="#">Өлзий</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third     " style="         ">
+                                            <div class="column dt-sc-one-third">
                                                 <div class="dt-sc-ico-content type15    ">
-                                                    <div class="custom-icon "><img src="{THEME}/images/06/offer3.jpg" title="Ayurveda Spa" alt="Ayurveda Spa" />
+                                                    <div class="custom-icon "><img src="{THEME}/images/bella/deegii.jpg" title="Ayurveda Spa" alt="Ayurveda Spa" />
                                                     </div>
-                                                    <h4><a href="#">Ayurveda Spa</a></h4>
-                                                    <p>$300</p><a class="dt-sc-button dt-sc-btn-eff3" href="#"> View Details</a>
+                                                    <h4><a href="#">Дээгий</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third     " style="         ">
+                                            <div class="column dt-sc-one-third">
                                                 <div class="dt-sc-ico-content type15    ">
-                                                    <div class="custom-icon "><img src="{THEME}/images/06/offer4.jpg" title="Luxury Spa" alt="Luxury Spa" />
+                                                    <div class="custom-icon "><img src="{THEME}/images/bella/maralaa.jpg" title="Luxury Spa" alt="Luxury Spa" />
                                                     </div>
-                                                    <h4><a href="#">Luxury Spa</a></h4>
-                                                    <p>$400</p><a class="dt-sc-button dt-sc-btn-eff3" href="#"> View Details</a>
+                                                    <h4><a href="#">Маралаа</a></h4>
+                                                </div>
+                                            </div>
+                                            <div class="column dt-sc-one-third">
+                                                <div class="dt-sc-ico-content type15    ">
+                                                    <div class="custom-icon "><img src="{THEME}/images/bella/shagai.jpg" title="Luxury Spa" alt="Luxury Spa" />
+                                                    </div>
+                                                    <h4><a href="#">Шагай</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -680,16 +681,18 @@
                     <div class="full-width-section    ">
                         <div class="container">
                             <div class="dt-sc-margin80"></div>
-                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Meet our Expert Stylists</h2>
+                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Манай шилдэг артистууд</h2>
                             <p class="text-aligncenter">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at.
                                 <br /> Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                             <div class="dt-sc-margin80"></div>
-                            <div class="column dt-sc-one-fourth    first " style="         ">
+                            <div class="column dt-sc-one-fourth first">
                                 <div class="dt-sc-team type1">
                                     <div class="image">
-                                        <img src="{THEME}/images/team-img4.jpg" alt="Team Image" title="Team Image" />
+                                        <img src="{THEME}/images/bella/bella.jpg" alt="Team Image" title="Team Image" />
                                         <div class="image-overlay">
-                                            <div class="team-details-social-icons"><a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a><a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
+                                            <div class="team-details-social-icons">
+                                                <a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a>
+                                                <a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -697,12 +700,14 @@
                                     <h5>Professional Hairstylist</h5>
                                 </div>
                             </div>
-                            <div class="column dt-sc-one-fourth     " style="         ">
+                            <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-team type1">
                                     <div class="image">
-                                        <img src="{THEME}/images/team-img1.jpg" alt="Team Image" title="Team Image" />
+                                        <img src="{THEME}/images/bella/daria.jpg" alt="Team Image" title="Team Image" />
                                         <div class="image-overlay">
-                                            <div class="team-details-social-icons"><a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a><a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
+                                            <div class="team-details-social-icons">
+                                                <a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a>
+                                                <a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -710,12 +715,14 @@
                                     <h5>Professional Hairstylist</h5>
                                 </div>
                             </div>
-                            <div class="column dt-sc-one-fourth     " style="         ">
+                            <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-team type1">
                                     <div class="image">
-                                        <img src="{THEME}/images/team-img2.jpg" alt="Team Image" title="Team Image" />
+                                        <img src="{THEME}/images/bella/deegii.jpg" alt="Team Image" title="Team Image" />
                                         <div class="image-overlay">
-                                            <div class="team-details-social-icons"><a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a><a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
+                                            <div class="team-details-social-icons">
+                                                <a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a>
+                                                <a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -723,12 +730,14 @@
                                     <h5>Professional Hairstylist</h5>
                                 </div>
                             </div>
-                            <div class="column dt-sc-one-fourth     " style="         ">
+                            <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-team type1">
                                     <div class="image">
-                                        <img src="{THEME}/images/team-img3.jpg" alt="Team Image" title="Team Image" />
+                                        <img src="{THEME}/images/bella/maralaa.jpg" alt="Team Image" title="Team Image" />
                                         <div class="image-overlay">
-                                            <div class="team-details-social-icons"><a href="#" target="_blank" title="googleplus"><i class="fa fa-google-plus"></i></a><a href="#" target="_blank" title="pinterest"><i class="fa fa-pinterest"></i></a>
+                                            <div class="team-details-social-icons">
+                                                <a href="#" target="_blank" title="googleplus"><i class="fa fa-google-plus"></i></a>
+                                                <a href="#" target="_blank" title="pinterest"><i class="fa fa-pinterest"></i></a>
                                             </div>
                                         </div>
                                     </div>
