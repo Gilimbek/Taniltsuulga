@@ -1,1 +1,9 @@
 /* If you want to add your own CSS code, please do it in this file */
+.caroufredsel_wrapper {
+	width: 100% !important;
+}
+
+.main-slider {
+	width: 100% !important;
+    margin:0px;
+}

@@ -1,10 +1,8 @@
 <!doctype html>
 <html lang="en-US">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-
     <script type="text/javascript">
         document.documentElement.className = document.documentElement.className + ' yes-js js_active js'
     </script>
@@ -39,9 +37,7 @@
     <link rel='stylesheet' href='{THEME}/css/styles1c9b.css' type='text/css' media='all' />
     <link rel='stylesheet' href='{THEME}/css/resmap.mine735.css' type='text/css' media='all' />
     <link rel='stylesheet' id='rs-plugin-settings-css' href='{THEME}/css/settings5223.css' type='text/css' media='all' />
-    <style id='rs-plugin-settings-inline-css' type='text/css'>
-        #rs-demo-id {}
-    </style>
+
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <link rel='stylesheet' href='{THEME}/css/styles.minac31.css' type='text/css' media='all' />
     <link rel='stylesheet' href='{THEME}/css/prettyPhoto005e.css' type='text/css' media='all' />
@@ -49,6 +45,7 @@
     <link rel='stylesheet' href='{THEME}/css/style9c6b.css' type='text/css' media='all' />
     <link rel='stylesheet' href='{THEME}/css/font-awesome.minb2f9.css' type='text/css' media='all' />
     <link rel='stylesheet' href='{THEME}/css/style4e44.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='{THEME}/css/style.css' type='text/css' media='all' />
     <link rel='stylesheet' href='http://localhost/bella.mn/plugin/font-awesome-4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
 
     <style id='trendsalon-style-inline-css' type='text/css'>
@@ -88,10 +85,8 @@
     <script type='text/javascript' src='{THEME}/js/jquery.themepunch.tools.min5223.js'></script>
     <script type='text/javascript' src='{THEME}/js/jquery.themepunch.revolution.min5223.js'></script>
     <script type='text/javascript' src='{THEME}/js/likesScript1c9b.js'></script>
-    <!--[if lt IE 9]>
-<script type='text/javascript' src='http://wedesignthemes.com/themes/dt-trendsalon/wp-content/themes/trendsalon/framework/js/html5.js?ver=3.7.3'></script>
-<![endif]-->
     <script type='text/javascript' src='{THEME}/js/modernizr.min1c9b.js'></script>
+    
     <script type="text/javascript">
         var $mbas1 = jQuery.noConflict();
         $mbas1(document).ready(function() {
@@ -158,7 +153,6 @@
         }
     </script>
 </head>
-
 <body class="home page page-id-8428 page-template page-template-tpl-fullwidth page-template-tpl-fullwidth-php ">
     <div class="loader-wrapper">
         <div class="loader">
@@ -168,14 +162,13 @@
         </div>
         <h3 class="loader-text"><span>Bella</span><span>Salon</span></h3>
     </div>
-
     <!-- **DesignThemes Style Picker Wrapper - End** -->
     <div class="wrapper">
         <div class="inner-wrapper">
             <div class="top-bar">
                 <div class="container">
                     <div class="dt-sc-left">
-                        <p>Lorem ipsum dolor sit amet consectetur</p>
+                        <p>Манай салон нь өдөр тутмын, гоёлын, хуримын, express будалтууд хийнэ.</p>
                     </div>
                     <div class="dt-sc-right">
                         <ul class="top-menu type1">
@@ -193,7 +186,6 @@
                         <div class="container">
                             <a href="#" title="Bella Salon">
                                 <img class="normal_logo" src="{THEME}/images/logo.png" title="Bella Salon" />
-                                <!--<img class="retina_logo" src="{THEME}/images/logo%402x.png" alt="Trend Salon" title="Trend Salon" style="width:460px; height:110px;" width="460" height="110" />-->
                             </a>
                         </div>
                     </div>
@@ -204,39 +196,35 @@
                                     <div id="sticky-logo">
                                         <a href="" title="Bella Salon">
                                             <img class="normal_logo" src="{THEME}/images/logo.png" title="Bella Salon" />
-                                            <!--<img class="retina_logo" src="wp-content/themes/trendsalon/images/logo%402x.png" alt="Trend Salon" title="Trend Salon" style="width:460px; height:110px;" width="460" height="110" />-->
                                         </a>
                                     </div>
-                                    <div id="dt-menu-toggle" class="dt-menu-toggle">Menu<span class="dt-menu-toggle-icon"></span>
-                                    </div>
+                                    <div id="dt-menu-toggle" class="dt-menu-toggle">Menu<span class="dt-menu-toggle-icon"></span></div>
                                     <ul id="menu-header-menu" class="menu">
                                         <li id="menu-item-8720" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8428 current_page_item menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
                                             <a href="#"><i class='fa fa-home'></i>НҮҮР</a>
-
                                             <a class="dt-menu-expand">+</a>
-
-                                            <li id="menu-item-3928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
-                                                <a href="#">БИДНИЙ ТУХАЙ</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-3952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-1">
-                                                        <a href="blog/layout-types/index.html">ТАНИЛЦУУЛГА</a>
-                                                        <a href="blog/column-layouts/index.html">ҮЙЛЧИЛГЭЭ</a>
-                                                        <a class="dt-menu-expand">+</a>
-                                                </ul>
-                                                <a class="dt-menu-expand">+</a>
-                                                <li id="menu-item-9328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 menu-item-megamenu-parent  megamenu-4-columns-group">
-                                                    <a href="#">ХИЧЭЭЛ</a>
-                                                    <li id="menu-item-9334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent ">
-                                                        <a href="">E-SHOP</a>
-                                                        <a class="dt-menu-expand">+</a>
-                                                        <li id="menu-item-4381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
-                                                            <a href="portfolio/index.html">МАРКЕТИНГ</a>
-                                                            <a class="dt-menu-expand">+</a>
-                                                            <li id="menu-item-3979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-megamenu-parent  megamenu-4-columns-group">
-                                                                <a href="shortcodes/index.html">INSTAGRAM</a>
-                                                                <a class="dt-menu-expand">+</a>
-                                                                <li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
-                                                                    <a href="contact/index.html">ХОЛБОО БАРИХ</a>
+                                        <li id="menu-item-3928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
+                                            <a href="#">БИДНИЙ ТУХАЙ</a>
+                                            <ul class="sub-menu">
+                                                <li id="menu-item-3952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-1">
+                                                    <a href="#">ТАНИЛЦУУЛГА</a>
+                                                    <a href="#">ҮЙЛЧИЛГЭЭ</a>
+                                                    <a class="dt-menu-expand">+</a>
+                                            </ul>
+                                            <a class="dt-menu-expand">+</a>
+                                        <li id="menu-item-9328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 menu-item-megamenu-parent  megamenu-4-columns-group">
+                                            <a href="#">ХИЧЭЭЛ</a>
+                                        <li id="menu-item-9334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent ">
+                                            <a href="">E-SHOP</a>
+                                            <a class="dt-menu-expand">+</a>
+                                        <li id="menu-item-4381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
+                                            <a href="#">МАРКЕТИНГ</a>
+                                            <a class="dt-menu-expand">+</a>
+                                        <li id="menu-item-3979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-megamenu-parent  megamenu-4-columns-group">
+                                            <a href="#">INSTAGRAM</a>
+                                            <a class="dt-menu-expand">+</a>
+                                        <li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
+                                            <a href="#">ХОЛБОО БАРИХ</a>
                                     </ul>
                                 </nav>
                             </div>
@@ -245,7 +233,6 @@
                 </header>
             </div>
             <div class="dt-sc-main-slider" id="dt-sc-rev-slider">
-
                 <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullscreen-container" style="background-color:transparent;padding:0px;">
                     <!-- START REVOLUTION SLIDER 5.2.6 fullscreen mode -->
                     <div id="rev_slider_1_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.2.6">
@@ -253,39 +240,30 @@
                             <!-- SLIDE  -->
                             <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="{THEME}/images/06/bg1.jpg" alt="" title="bg1" width="1920" height="950" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+                                <img src="{THEME}/images/bella/bg1.jpg" alt="" title="bg1" width="1920" height="950" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
-
                                 <!-- LAYER NR. 1 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-2" data-x="46" data-y="center" data-voffset="191" data-width="['240']" data-height="['240']" data-transform_idle="o:1;" data-transform_in="rY:180deg;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="4380" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 240px; max-width: 240px; max-width: 240px; max-width: 240px; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);background-color:rgba(255, 255, 255, 1.00);border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;display:block;background:rgba(158, 126, 87, .8);box-shadow:5px 0px 28px rgba(0, 0, 0, .3);"> </div>
                                 <!-- LAYER NR. 2 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-2" data-x="right" data-hoffset="15" data-y="center" data-voffset="-190" data-width="['318']" data-height="['318']" data-transform_idle="o:1;" data-transform_in="rY:180deg;opacity:0;s:700;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="3720" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 318px; max-width: 318px; max-width: 318px; max-width: 318px; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);background-color:rgba(255, 255, 255, 1.00);border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;display:block;background:rgba(255, 255, 255, .8);box-shadow:5px 0px 28px rgba(0, 0, 0, .3);"> </div>
                                 <!-- LAYER NR. 3 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-3" data-x="right" data-hoffset="126" data-y="center" data-voffset="-268" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;s:300;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="4460" data-responsive_offset="on" style="z-index: 7;"><img src="{THEME}/images/06/logo.png" alt="" width="94" height="95" data-ww="94px" data-hh="95px" data-no-retina> </div>
-
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-4" data-x="right" data-hoffset="56" data-y="center" data-voffset="-187" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="4750" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: nowrap; font-size: 50px; line-height: 50px; font-weight: 900; color: rgba(0, 0, 0, 1.00);font-family:Playfair Display;">PERFECT </div>
                                 <!-- LAYER NR. 5 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-4" data-x="right" data-hoffset="55" data-y="center" data-voffset="-137" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="5080" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; white-space: nowrap; font-size: 50px; line-height: 50px; font-weight: 400; color: rgba(0, 0, 0, 1.00);font-family:Playfair Display;">Hair Salon </div>
-
                                 <!-- LAYER NR. 6 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="center" data-hoffset="1" data-y="center" data-voffset="-1" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1600;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; white-space: nowrap; font-size: 360px; line-height: 420px; font-weight: 400; color: rgba(234, 182, 25, 1.00);font-family:Lobster;text-shadow:5px 0px 28px rgba(0, 0, 0, .3);">Goldie </div>
-
                                 <!-- LAYER NR. 7 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="center" data-hoffset="-30" data-y="center" data-voffset="178" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="1960" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.1" style="z-index: 11; white-space: nowrap; font-size: 50px; line-height: 70px; font-weight: 400; color: rgba(234, 182, 25, 1.00);font-family:Lobster;text-shadow:5px 0px 10px rgba(0, 0, 0, .3);">Feel the celebrity in ‘u’ </div>
-
                                 <!-- LAYER NR. 8 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-5" data-x="798" data-y="645" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="rX:0deg;rY:360deg;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="5490" data-responsive_offset="on" style="z-index: 12;"><img src="{THEME}/images/06/star.png" alt="" width="28" height="26" data-ww="28px" data-hh="26px" data-no-retina> </div>
-
                                 <!-- LAYER NR. 9 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-5" data-x="837" data-y="645" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-20px;rX:0deg;rY:360deg;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="5880" data-responsive_offset="on" style="z-index: 13;"><img src="{THEME}/images/06/star.png" alt="" width="28" height="26" data-ww="28px" data-hh="26px" data-no-retina> </div>
-
                                 <!-- LAYER NR. 10 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-5" data-x="874" data-y="645" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-20px;rX:0deg;rY:360deg;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="6270" data-responsive_offset="on" style="z-index: 14;"><img src="{THEME}/images/06/star.png" alt="" width="28" height="26" data-ww="28px" data-hh="26px" data-no-retina> </div>
-
                                 <!-- LAYER NR. 11 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-5" data-x="911" data-y="645" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-20px;rX:0deg;rY:360deg;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="6610" data-responsive_offset="on" style="z-index: 15;"><img src="{THEME}/images/06/star.png" alt="" width="28" height="26" data-ww="28px" data-hh="26px" data-no-retina> </div>
-
                                 <!-- LAYER NR. 12 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-1-layer-5" data-x="951" data-y="645" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-20px;rX:0deg;rY:360deg;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="6940" data-responsive_offset="on" style="z-index: 16;"><img src="{THEME}/images/06/star.png" alt="" width="28" height="26" data-ww="28px" data-hh="26px" data-no-retina> </div>
                             </li>
@@ -294,88 +272,68 @@
                                 <!-- MAIN IMAGE -->
                                 <img src="{THEME}/images/transparent.png" style='background-color:#000000' alt="" title="Home" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
-
                                 <!-- LAYER NR. 1 -->
-                                <div class="tp-caption   tp-resizeme" id="slide-3-layer-1" data-x="right" data-hoffset="1066" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on" style="z-index: 5;"><img src="{THEME}/images/06/img1.jpg" alt="" width="460" height="925" data-ww="460px" data-hh="925px" data-no-retina> </div>
-
+                                <div class="tp-caption   tp-resizeme" id="slide-3-layer-1" data-x="right" data-hoffset="1066" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on" style="z-index: 5;"><img src="{THEME}/images/bella/slider-1.jpg" alt="" width="460" height="925" data-ww="460px" data-hh="925px" data-no-retina> </div>
                                 <!-- LAYER NR. 2 -->
-                                <div class="tp-caption   tp-resizeme" id="slide-3-layer-2" data-x="118" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-start="1860" data-responsive_offset="on" style="z-index: 6;"><img src="{THEME}/images/06/img2.jpg" alt="" width="460" height="925" data-ww="460px" data-hh="925px" data-no-retina> </div>
-
+                                <div class="tp-caption   tp-resizeme" id="slide-3-layer-2" data-x="118" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-start="1860" data-responsive_offset="on" style="z-index: 6;"><img src="{THEME}/images/bella/slider-2.jpg" alt="" width="460" height="925" data-ww="460px" data-hh="925px" data-no-retina> </div>
                                 <!-- LAYER NR. 3 -->
-                                <div class="tp-caption   tp-resizeme" id="slide-3-layer-3" data-x="right" data-hoffset="118" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:700;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="2960" data-responsive_offset="on" style="z-index: 7;"><img src="{THEME}/images/06/img3.jpg" alt="" width="460" height="925" data-ww="460px" data-hh="925px" data-no-retina> </div>
-
+                                <div class="tp-caption   tp-resizeme" id="slide-3-layer-3" data-x="right" data-hoffset="118" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:700;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="2960" data-responsive_offset="on" style="z-index: 7;"><img src="{THEME}/images/bella/slider-3.jpg" alt="" width="460" height="925" data-ww="460px" data-hh="925px" data-no-retina> </div>
                                 <!-- LAYER NR. 4 -->
-                                <div class="tp-caption   tp-resizeme" id="slide-3-layer-5" data-x="1066" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:400;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-start="3740" data-responsive_offset="on" style="z-index: 8;"><img src="{THEME}/images/06/img4.jpg" alt="" width="460" height="925" data-ww="460px" data-hh="925px" data-no-retina> </div>
-
+                                <div class="tp-caption   tp-resizeme" id="slide-3-layer-5" data-x="1066" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:400;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-start="3740" data-responsive_offset="on" style="z-index: 8;"><img src="{THEME}/images/bella/slider-4.jpg" alt="" width="460" height="925" data-ww="460px" data-hh="925px" data-no-retina> </div>
                                 <!-- LAYER NR. 5 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-3-layer-6" data-x="right" data-hoffset="1066" data-y="center" data-voffset="" data-width="['460']" data-height="['925']" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-start="4200" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; min-width: 460px; max-width: 460px; max-width: 925px; max-width: 925px; white-space: nowrap; font-size: 34px; line-height: 60px; font-weight: 400; color: rgba(0, 0, 0, 1.00);font-family:Playfair Display;text-align:center;background:rgba(234, 182, 25, .9);height:925px;display:table;"><span class="img-txt">Messy Weave<br>
 <span style="font-size:60px; font-weight:900">$12.30</span></span>
-
                                     <style type="text/css">
                                         span.img-txt {
                                             display: table-cell;
                                             vertical-align: middle;
                                         }
                                     </style>
-
                                 </div>
-
                                 <!-- LAYER NR. 6 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-3-layer-6" data-x="118" data-y="center" data-voffset="" data-width="['460']" data-height="['925']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="5520" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; min-width: 460px; max-width: 460px; max-width: 925px; max-width: 925px; white-space: nowrap; font-size: 34px; line-height: 60px; font-weight: 400; color: rgba(234, 182, 25, 1.00);font-family:Playfair Display;text-align:center;background:rgba(0, 0, 0, .9);height:925px;display:table;"><span class="img-txt">Honey Lock<br>
 <span style="font-size:60px; font-weight:900">$22.99</span></span>
-
                                     <style type="text/css">
                                         span.img-txt {
                                             display: table-cell;
                                             vertical-align: middle;
                                         }
                                     </style>
-
                                 </div>
-
                                 <!-- LAYER NR. 7 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-3-layer-6" data-x="right" data-hoffset="118" data-y="center" data-voffset="" data-width="['460']" data-height="['925']" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:700;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-start="6530" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 11; min-width: 460px; max-width: 460px; max-width: 925px; max-width: 925px; white-space: nowrap; font-size: 34px; line-height: 60px; font-weight: 400; color: rgba(0, 0, 0, 1.00);font-family:Playfair Display;text-align:center;background:rgba(234, 182, 25, .9);height:925px;display:table;"><span class="img-txt">French Braid<br>
 <span style="font-size:60px; font-weight:900">$24.50</span></span>
-
                                     <style type="text/css">
                                         span.img-txt {
                                             display: table-cell;
                                             vertical-align: middle;
                                         }
                                     </style>
-
                                 </div>
-
                                 <!-- LAYER NR. 8 -->
                                 <div class="tp-caption   tp-resizeme" id="slide-3-layer-6" data-x="1066" data-y="center" data-voffset="" data-width="['460']" data-height="['925']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="7320" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 12; min-width: 460px; max-width: 460px; max-width: 925px; max-width: 925px; white-space: nowrap; font-size: 34px; line-height: 60px; font-weight: 400; color: rgba(234, 182, 25, 1.00);font-family:Playfair Display;text-align:center;background:rgba(0, 0, 0, .9);height:925px;display:table;"><span class="img-txt">Golden Weave<br>
 <span style="font-size:60px; font-weight:900">$16.00</span></span>
-
                                     <style type="text/css">
                                         span.img-txt {
                                             display: table-cell;
                                             vertical-align: middle;
                                         }
                                     </style>
-
                                 </div>
                             </li>
                             <!-- SLIDE  -->
                             <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="{THEME}/images/06/bg2.jpg" alt="" title="bg2" width="1920" height="950" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+                                <img src="{THEME}/images/bella/bg2.jpg" alt="" title="bg2" width="1920" height="950" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
-
                                 <!-- LAYER NR. 1 -->
-                                <div class="tp-caption   tp-resizeme" id="slide-2-layer-2" data-x="right" data-hoffset="25" data-y="center" data-voffset="153" data-width="['565']" data-height="['310']" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1300;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:0px;" data-start="2820" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 565px; max-width: 565px; max-width: 310px; max-width: 310px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(0, 0, 0, 1.00);background-color:rgba(0, 0, 0, 0.50);"> </div>
-
+                                <div class="tp-caption tp-resizeme" id="slide-2-layer-2" data-x="right" data-hoffset="25" data-y="center" data-voffset="153" data-width="['565']" data-height="['310']" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1300;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:0px;y:0px;" data-start="2820" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 565px; max-width: 565px; max-width: 310px; max-width: 310px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(0, 0, 0, 1.00);background-color:rgba(0, 0, 0, 0.50);"> </div>
                                 <!-- LAYER NR. 2 -->
-                                <div class="tp-caption   tp-resizeme" id="slide-2-layer-1" data-x="center" data-hoffset="100" data-y="center" data-voffset="" data-width="['']" data-height="['']" data-transform_idle="o:1;rZ:-90;" data-transform_in="y:bottom;s:1500;e:Power4.easeOut;" data-transform_out="y:-50px;opacity:0;s:300;" data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: px; max-width: px; max-width: px; max-width: px; white-space: normal; font-size: 120px; line-height: 22px; font-weight: 700; color: rgba(212, 175, 110, 1.00);font-family:Playfair Display;text-align:center;white-space:nowrap;text-shadow:5px 0px 5px rgba(0, 0, 0, .3);">BEARD MEN </div>
-
+                                <div class="tp-caption tp-resizeme" id="slide-2-layer-1" data-x="center" data-hoffset="100" data-y="center" data-voffset="" data-width="['']" data-height="['']" data-transform_idle="o:1;rZ:-90;" data-transform_in="y:bottom;s:1500;e:Power4.easeOut;" data-transform_out="y:-50px;opacity:0;s:300;" data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: px; max-width: px; max-width: px; max-width: px; white-space: normal; font-size: 120px; line-height: 22px; font-weight: 700; color: rgba(212, 175, 110, 1.00);font-family:Playfair Display;text-align:center;white-space:nowrap;text-shadow:5px 0px 5px rgba(0, 0, 0, .3);">BEARD MEN </div>
                                 <!-- LAYER NR. 3 -->
-                                <div class="tp-caption   tp-resizeme" id="slide-2-layer-1" data-x="center" data-hoffset="206" data-y="center" data-voffset="106" data-width="['']" data-height="['']" data-transform_idle="o:1;rZ:-90;" data-transform_in="y:top;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="2280" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: px; max-width: px; max-width: px; max-width: px; white-space: normal; font-size: 56px; line-height: 22px; font-weight: 400; color: rgba(212, 175, 110, 1.00);font-family:Playfair Display;text-align:center;font-style:italic;white-space:nowrap;text-shadow:5px 0px 5px rgba(0, 0, 0, .3);">Fresh Start of an Era </div>
-
+                                <div class="tp-caption tp-resizeme" id="slide-2-layer-1" data-x="center" data-hoffset="206" data-y="center" data-voffset="106" data-width="['']" data-height="['']" data-transform_idle="o:1;rZ:-90;" data-transform_in="y:top;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="2280" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: px; max-width: px; max-width: px; max-width: px; white-space: normal; font-size: 56px; line-height: 22px; font-weight: 400; color: rgba(212, 175, 110, 1.00);font-family:Playfair Display;text-align:center;font-style:italic;white-space:nowrap;text-shadow:5px 0px 5px rgba(0, 0, 0, .3);">Fresh Start of an Era </div>
                                 <!-- LAYER NR. 4 -->
-                                <div class="tp-caption   tp-resizeme" id="slide-2-layer-3" data-x="right" data-hoffset="53" data-y="center" data-voffset="266" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;s:1500;e:Power3.easeOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:[100%];y:0;" data-start="4080" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: nowrap; font-size: 30px; line-height: 40px; font-weight: 700; color: rgba(212, 175, 110, 1.00);font-family:Playfair Display;text-transform:uppercase;">Beard Now </div>
+                                <div class="tp-caption tp-resizeme" id="slide-2-layer-3" data-x="right" data-hoffset="53" data-y="center" data-voffset="266" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;s:1500;e:Power3.easeOut;" data-transform_out="opacity:0;s:300;" data-mask_in="x:[100%];y:0;" data-start="4080" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: nowrap; font-size: 30px; line-height: 40px; font-weight: 700; color: rgba(212, 175, 110, 1.00);font-family:Playfair Display;text-transform:uppercase;">Beard Now </div>
                             </li>
                         </ul>
                         <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
@@ -392,10 +350,7 @@
                         }
                     </script>
                     <script type="text/javascript">
-                        /******************************************
-                        				-	PREPARE PLACEHOLDER FOR SLIDER	-
-                        			******************************************/
-
+                        /*********** - PREPARE PLACEHOLDER FOR SLIDER - ***********/
                         var setREVStartSize = function() {
                             try {
                                 var e = new Object,
@@ -410,7 +365,6 @@
                                 e.c = jQuery('#rev_slider_1_1');
                                 e.gridwidth = [1170];
                                 e.gridheight = [950];
-
                                 e.sliderLayout = "fullscreen";
                                 e.fullScreenAutoWidth = 'off';
                                 e.fullScreenAlignForce = 'off';
@@ -432,16 +386,12 @@
                                 e.c.closest(".rev_slider_wrapper").css({
                                     height: f
                                 })
-
                             } catch (d) {
                                 console.log("Failure at Presize of Slider:" + d)
                             }
                         };
-
                         setREVStartSize();
-
                         var tpj = jQuery;
-
                         var revapi1;
                         tpj(document).ready(function() {
                             if (tpj("#rev_slider_1_1").revolution == undefined) {
@@ -493,17 +443,17 @@
             <div id="main">
                 <div id="post-8428" class="post-8428 page type-page status-publish hentry">
                     <div class="dt-sc-content-highlighter" style="width:100%;position:relative;bottom:30px; margin:-15px 0 0;">
-                        <div class="full-width-section dark-parallax-content  ">
+                        <div class="full-width-section dark-parallax-content">
                             <div class="container">
                                 <div id="scrolldown" class="aligncenter">
                                     <a href="#dtmilestones"><span class="dt-sc-scrolldown-image animate" data-animation="fadeIn" data-delay="600"></span><br />Scroll To Milestones</a>
                                 </div>
                             </div>
                         </div>
-                        <div class="full-width-section   dark-parallax-content time-info " style="background-color:rgba(0,0,0,0.5);padding:0 0 7px;">
+                        <div class="full-width-section dark-parallax-content time-info" style="background-color:rgba(0,0,0,0.5);padding:0 0 7px;">
                             <div class="container">
-                                <div class="column dt-sc-two-third    first " style="      padding:10px 0 7px;   ">
-                                    <ul class='dt-sc-icon-list  '>
+                                <div class="column dt-sc-two-third first" style="padding:10px 0 7px;">
+                                    <ul class='dt-sc-icon-list'>
                                         <li><i class="fa fa-clock-o"></i>Opening <strong>Time</strong>
                                         </li>
                                         <li><strong>Monday to Saturday:</strong> 8AM to 9PM</li>
@@ -518,8 +468,6 @@
                     <div class="full-width-section">
                         <div class="container">
                             <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Үйлчилгээний төрөл</h2>
-                            <p class="text-aligncenter">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at.
-                                <br /> Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                             <div class="dt-sc-margin80"></div>
                             <div class="column dt-sc-one-fourth first">
                                 <div class="dt-sc-ico-content type17  ">
@@ -529,26 +477,29 @@
                                     <div class="custom-icon"><img src="{THEME}/images/06/cutting-icon.png" title="Энгийн будалт"/>
                                     </div>
                                     <h4><a href="#">Энгийн будалт</a></h4>
+                                    	<p>Өдөр тутамд зориулагдсан хэт тод биш хувь хүний царайны онцлогт нь тааруулж засаж тодруулж өгнө.</p>
                                 </div>
                             </div>
                             <div class="column dt-sc-one-fourth">
-                                <div class="dt-sc-ico-content type17  ">
+                                <div class="dt-sc-ico-content type17">
                                     <div class="dt-sc-icon-thumb">
                                         <img src="{THEME}/images/bella/service1.jpg" title="Гоёлын будалт"/>
                                     </div>
                                     <div class="custom-icon"><img src="{THEME}/images/06/coloring-icon.png" title="Гоёлын будалт"/>
                                     </div>
                                     <h4><a href="#">Гоёлын будалт</a></h4>
+                                    <p> Өдөр тутмын энгийн будалтыг бодвол илүү тод, хурц, хүнийг бүрэн өөрчилсөн, өөрийгөө тэс өөрөөр харах боломж юм.</p>
                                 </div>
                             </div>
                             <div class="column dt-sc-one-fourth">
-                                <div class="dt-sc-ico-content type17  ">
+                                <div class="dt-sc-ico-content type17">
                                     <div class="dt-sc-icon-thumb">
                                         <img src="{THEME}/images/bella/service3.jpg" title="Ганцааричлсан сургалт"/>
                                     </div>
                                     <div class="custom-icon"><img src="{THEME}/images/06/heater-icon.png" title="Ганцааричлсан сургалт"/>
                                     </div>
                                      <h4><a href="#">Ганцааричлсан сургалт</a></h4>
+                                    <p>Зөвхөн өөрөө өөртөө зориулсан, дүр төрхөндөө таарсан будалтыг заалгаж мэдэж авдаг.</p>
                                 </div>
                             </div>
                             <div class="column dt-sc-one-fourth">
@@ -559,71 +510,63 @@
                                     <div class="custom-icon"><img src="{THEME}/images/06/facial-icon.png" title="Групп сургалтГрупп сургалт" />
                                     </div>
                                    	<h4><a href="#">Групп сургалт</a></h4>
+                                    <p>Найз нөхөд, хамт олонд зориулсан сургалт.</p>
                                 </div>
                             </div>
-                            <div class="dt-sc-margin100"></div>
                         </div>
                     </div>
-                    <div class="full-width-section dt-sc-parallax   " style="background-image:url({THEME}/images/parallax-offer.jpg);background-attachment:fixed;" data-position="">
-                        <div class="full-width-section-inner    color-overlay" style="background-color:rgba(0,0,0,0.5);padding:30px 0;">
+                    <div class="full-width-section dt-sc-parallax" style="background-image:url({THEME}/images/parallax-offer.jpg);background-attachment:fixed;margin-top: 15px;" data-position="">
+                        <div class="full-width-section-inner color-overlay" style="background-color:rgba(0,0,0,0.5);padding:30px 0;">
                             <div class="container">
                                 <h2 class="dt-sc-border-title  aligncenter  animate" style="color:#ffffff;" data-animation="flipInY" data-delay="200">Манай шилдэг артистууд</h2>
                                 <div class="dt-sc-margin40"></div>
-                                <!--<div class="column dt-sc-one-fourth dark-parallax-content first">
-                                    <h3 class="   ">Our Salon <strong>Offers</strong></h3>
-                                    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam quis nostrud.</p>
-                                    <div class="dt-sc-margin20"></div><img class="" src="{THEME}/images/06/offer-price.png" alt="" title="" />
-                                    <div class="dt-sc-margin20"></div>
-                                    <p class="dt-sc-contact-info "><i class="fa fa-calendar"></i>June 5th to August 5th</p>
-                                    <p class="dt-sc-contact-info "><i class="fa fa-map-marker"></i>All over London</p>
-                                </div>-->
-                                <div class="column dt-sc-three-fourth">
+                                <div class="column dt-sc-three-fourth main-slider">
                                     <div class="dt-sc-content-carousel-wrapper " data-autoscroll="" data-scroll="">
-                                        <div class="dt-sc-content-carousel" style="width:1170px" data-columns="4">
-                                            <div class="column dt-sc-one-third">
+                                        <div class="dt-sc-content-carousel" data-columns="4">
+                                            <div class="column dt-sc-one-fourth">
                                                 <div class="dt-sc-ico-content type15">
                                                     <div class="custom-icon "><img src="{THEME}/images/bella/bella.jpg" title="Aromatheraphy" alt="Aromatheraphy" />
                                                     </div>
                                                     <h4><a href="#">Белла</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third">
+                                            <div class="column dt-sc-one-fourth">
                                                 <div class="dt-sc-ico-content type15">
                                                     <div class="custom-icon "><img src="{THEME}/images/bella/daria.jpg" title="Ayurveda Spa" alt="Ayurveda Spa" />
                                                     </div>
                                                     <h4><a href="#">Дариа</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third">
+                                            <div class="column dt-sc-one-fourth">
                                                 <div class="dt-sc-ico-content type15">
                                                     <div class="custom-icon "><img src="{THEME}/images/bella/ulzii.jpg" title="Luxury Spa" alt="Luxury Spa" />
                                                     </div>
                                                     <h4><a href="#">Өлзий</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third">
-                                                <div class="dt-sc-ico-content type15    ">
+                                            <div class="column dt-sc-one-fourth">
+                                                <div class="dt-sc-ico-content type15">
                                                     <div class="custom-icon "><img src="{THEME}/images/bella/deegii.jpg" title="Ayurveda Spa" alt="Ayurveda Spa" />
                                                     </div>
                                                     <h4><a href="#">Дээгий</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third">
-                                                <div class="dt-sc-ico-content type15    ">
+                                            <div class="column dt-sc-one-fourth">
+                                                <div class="dt-sc-ico-content type15">
                                                     <div class="custom-icon "><img src="{THEME}/images/bella/maralaa.jpg" title="Luxury Spa" alt="Luxury Spa" />
                                                     </div>
                                                     <h4><a href="#">Маралаа</a></h4>
                                                 </div>
                                             </div>
-                                            <div class="column dt-sc-one-third">
-                                                <div class="dt-sc-ico-content type15    ">
+                                            <div class="column dt-sc-one-fourth">
+                                                <div class="dt-sc-ico-content type15">
                                                     <div class="custom-icon "><img src="{THEME}/images/bella/shagai.jpg" title="Luxury Spa" alt="Luxury Spa" />
                                                     </div>
                                                     <h4><a href="#">Шагай</a></h4>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dt-sc-content-carousel-arrows  ">
+                                        <div class="dt-sc-content-carousel-arrows">
                                             <a href="#" class="prev"><span class="fa fa-angle-left"></span></a>
                                             <a href="#" class="next"><span class="fa fa-angle-right"></span></a>
                                         </div>
@@ -633,237 +576,143 @@
                             </div>
                         </div>
                     </div>
-                    <div class="full-width-section    " style="background-image:url({THEME}/images/parallax-promo.jpg);background-attachment:fixed;padding:90px 0;">
+                    <div class="full-width-section" style="background-image:url({THEME}/images/parallax-promo.jpg);background-attachment:fixed;padding:30px 0;">
                         <div class="container">
-                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Our Beauty Product</h2>
-                            <div class="dt-sc-margin60"></div>
-                            <div class="column dt-sc-one-third    first " style="         "></div>
-                            <div class="column dt-sc-one-third     " style="         "><img class="text-aligncenter" src="{THEME}/images/presentation-image-new.png" alt="Box" title="Box" />
+                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Салоны танилцуулга</h2>
+                            <div class="column dt-sc-two-third first" style=""></div>
+                            <div class="column dt-sc-two-third" style="float:left;width:50%;"><img class="text-aligncenter" src="{THEME}/images/bella/salon.jpg" alt="Box" title="Box" />
                             </div>
-                            <div class="column dt-sc-one-third     " style="         ">
-                                <h3 class="   ">Duis aute irure dolor <strong>pariatur</strong></h3>
-                                <ul class='dt-sc-fancy-list  red  tick'>
-                                    <li>Sed do eiusmod tempor incididunt ut</li>
-                                    <li>Labore et dolore magna aliqua</li>
-                                    <li>Ut enim ad minim veniam quis</li>
-                                    <li>Nostrud exercitation ullamco laboris</li>
-                                    <li>Cupidatat non proident, sunt in</li>
+                            <div class="column dt-sc-one-third" style="float:right;width:46%;">
+                                <h3 style="font-size:18px;text-align:center;">Мэргэжлийн Нүүр хувиргагч Төгс үзэсгэлэнт Академи</h3>
+                                <ul class='dt-sc-fancy-list  red  tick' style="font-size: 14px !important;text-align: justify;">
+                                    <p>Монголын анхны Мэргэжлийн Нүүр хувиргагч Төгс үзэсгэлэнт Академи нь 2014 онд байгуулагдсан бөгөөд 
+                                       Монголын гоо сайхан нүүр будах урлагыг дэлхийн түвшинд таниулах гадаад орны мэргэжлийн академитай 
+                                       хамтран ажиллах, туршлага солилцох, сургалт семинар уулзалт зохион байгуулах, дэмжлэг туслалцаа үзүүлэх, 
+                                       мэргэжлийн байгууллага тэдгээрийн уялдаа холбоог нэгтгэх энэ чиглэлээр нийгмийн эмзэг бүлгийн иргэдэд 
+                                       дэмжлэг туслалцаа үзүүлэх, сургалт зөвлөгөөг нээлттэй хүртээмжтэй хүргэх зорилготойгоор үйл ажиллагаа 
+                                       явуулж буй нийгэмд үйлчилдэг төрийн бус байгууллага юм.
+                                    </p>
+                                    <li>Академийн үйл ажиллагааны гол чиглэл нь нүүр хувиргагч бэлтгэх анхан, дунд, гүнзгий шатны мэргэжлийн чиг баримжаа олгох сургалтыг зохион байгуулдаг.</li>
+                                    <li>Маке up салон нь өдөр тутамын будалт болон гоёлын, хуримын будалтыг тогтмол хийж байна</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="full-width-section dt-sc-parallax  dark-parallax-content  " style="background-image:url({THEME}/images/counter-parallax.jpg);background-attachment:fixed;" data-position="" id="dtmilestones">
-                        <div class="full-width-section-inner    color-overlay" style="background-color:rgba(0,0,0,0.7);padding:60px 0;">
-                            <div class="container">
-                                <div class="column dt-sc-one-fourth    first " style="         ">
-                                    <div class="dt-sc-animate-num  ">
-                                        <div class="dt-sc-num-count" data-value="2500">2500</div><span>Customers</span>
-                                    </div>
-                                </div>
-                                <div class="column dt-sc-one-fourth     " style="         ">
-                                    <div class="dt-sc-animate-num  dt-sc-postion-altered"><span>Prefessionals</span>
-                                        <div class="dt-sc-num-count" data-value="100">100</div>
-                                    </div>
-                                </div>
-                                <div class="column dt-sc-one-fourth     " style="         ">
-                                    <div class="dt-sc-animate-num  ">
-                                        <div class="dt-sc-num-count" data-value="150">150</div><span>Branches</span>
-                                    </div>
-                                </div>
-                                <div class="column dt-sc-one-fourth     " style="         ">
-                                    <div class="dt-sc-animate-num  dt-sc-postion-altered"><span>Customers</span>
-                                        <div class="dt-sc-num-count" data-value="250">250</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="full-width-section    ">
+                    <div class="full-width-section">
                         <div class="container">
                             <div class="dt-sc-margin80"></div>
-                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Манай шилдэг артистууд</h2>
-                            <p class="text-aligncenter">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at.
-                                <br /> Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Бидний амжилт</h2>
+                            <p class="text-aligncenter">2014 онд Герман Улсад зохиогдсон World cup OMC hairworld Дэлхийн аварга шалгаруулах тэмцээнд
+                                <br />Маке up төрлөөр оролцож Дэлхийн 100 гаруй орноос 10-р байранд орсон.</p>
                             <div class="dt-sc-margin80"></div>
                             <div class="column dt-sc-one-fourth first">
                                 <div class="dt-sc-team type1">
                                     <div class="image">
-                                        <img src="{THEME}/images/bella/bella.jpg" alt="Team Image" title="Team Image" />
+                                        <img src="{THEME}/images/bella/amjilt-1.jpg" alt="Team Image" title="Team Image" />
                                         <div class="image-overlay">
                                             <div class="team-details-social-icons">
                                                 <a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a>
-                                                <a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
+                                                <a href="#" target="_blank" title="instagram"><i class="fa fa-instagram"></i></a>
                                             </div>
                                         </div>
                                     </div>
-                                    <h4><a href="#">Angel Sienna </a></h4>
-                                    <h5>Professional Hairstylist</h5>
+                                    <h4><a href="#">World cup OMC hairworld</a></h4>
                                 </div>
                             </div>
                             <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-team type1">
                                     <div class="image">
-                                        <img src="{THEME}/images/bella/daria.jpg" alt="Team Image" title="Team Image" />
+                                        <img src="{THEME}/images/bella/amjilt-1.jpg" alt="Team Image" title="Team Image" />
                                         <div class="image-overlay">
                                             <div class="team-details-social-icons">
                                                 <a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a>
-                                                <a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
+                                                <a href="#" target="_blank" title="instagram"><i class="fa fa-instagram"></i></a>
                                             </div>
                                         </div>
                                     </div>
-                                    <h4><a href="#"> John Doe </a></h4>
-                                    <h5>Professional Hairstylist</h5>
+                                    <h4><a href="#"> Hairworld OMC World Cup Seoul 2016</a></h4>
                                 </div>
                             </div>
                             <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-team type1">
                                     <div class="image">
-                                        <img src="{THEME}/images/bella/deegii.jpg" alt="Team Image" title="Team Image" />
+                                        <img src="{THEME}/images/bella/amjilt-1.jpg" alt="Team Image" title="Team Image" />
                                         <div class="image-overlay">
                                             <div class="team-details-social-icons">
                                                 <a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a>
-                                                <a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
+                                                <a href="#" target="_blank" title="instagram"><i class="fa fa-instagram"></i></a>
                                             </div>
                                         </div>
                                     </div>
-                                    <h4><a href="#">Scorlett Johanson </a></h4>
-                                    <h5>Professional Hairstylist</h5>
+                                    <h4><a href="#">Монголын Гоо сайханчдын тэмцээн</a></h4>
                                 </div>
                             </div>
                             <div class="column dt-sc-one-fourth">
                                 <div class="dt-sc-team type1">
                                     <div class="image">
-                                        <img src="{THEME}/images/bella/maralaa.jpg" alt="Team Image" title="Team Image" />
+                                        <img src="{THEME}/images/bella/amjilt-1.jpg" alt="Team Image" title="Team Image" />
                                         <div class="image-overlay">
                                             <div class="team-details-social-icons">
-                                                <a href="#" target="_blank" title="googleplus"><i class="fa fa-google-plus"></i></a>
-                                                <a href="#" target="_blank" title="pinterest"><i class="fa fa-pinterest"></i></a>
+                                                <a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a>
+                                                <a href="#" target="_blank" title="instagram"><i class="fa fa-instagram"></i></a>>
                                             </div>
                                         </div>
                                     </div>
-                                    <h4><a href="#"> Mark Vick</a></h4>
-                                    <h5>Professional Hairstylist</h5>
+                                    <h4><a href="#">Найрсаг Улаанбаатар</a></h4>
                                 </div>
                             </div>
                             <div class="dt-sc-margin50"></div>
                         </div>
                     </div>
                     <div class="full-width-section dt-sc-parallax" style="background-image:url({THEME}/images/blog-bg.jpg);background-attachment:fixed;" data-position="">
-                        <div class="full-width-section-inner    color-overlay" style="background-color:rgba(0,0,0,0.7);padding:90px 0 70px;">
+                        <div class="full-width-section-inner color-overlay" style="background-color:rgba(0,0,0,0.7);padding:90px 0 70px;">
                             <div class="container">
-                                <h2 class="dt-sc-border-title  aligncenter  animate" style="color:#ffffff;" data-animation="flipInY" data-delay="200">From the Blog</h2>
+                                <h2 class="dt-sc-border-title  aligncenter  animate" style="color:#ffffff;" data-animation="flipInY" data-delay="200">Манай эвентүүд</h2>
                                 <div class="dt-sc-margin80"></div>
                                 <div class="column dt-sc-one-third first">
                                     <article class="blog-entry type2 post-3759 post type-post status-publish format-quote has-post-thumbnail hentry category-news category-technology tag-technology tag-trend post_format-post-format-quote">
                                         <div class="entry-thumb">
                                             <a href="#" title="Hair Stylists bring out the Beauty in you">
-                                                <img width="1170" height="767" src="{THEME}/images/06/blog14.jpg" class="attachment-trendsalon-1170x767 size-trendsalon-1170x767 wp-post-image" alt="blog14" sizes="(max-width: 1170px) 100vw, 1170px" />
+                                                <img width="1170" height="767" src="{THEME}/images/bella/event1.jpg" class="attachment-trendsalon-1170x767 size-trendsalon-1170x767 wp-post-image" alt="blog14" sizes="(max-width: 1170px) 100vw, 1170px" />
                                             </a>
                                         </div>
                                         <div class="entry-details">
                                             <div class="dt-sc-margin20"></div>
                                             <div class="entry-title">
-                                                <h3><a href="#" title="Hair Stylists bring out the Beauty in you">Hair Stylists bring out the Beauty in you</a></h3>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <div class="entry-meta-date">
-                                                    <h6>
-								09 <br> May
-                            </h6>
-                                                </div>
-                                                <div class="entry-meta-format">
-                                                    <a href="2015/04/16/hair-stylists-bring-out-the-beauty-in-you/index.html" title="Hair Stylists bring out the Beauty in you" class="entry_format"></a>
-                                                </div>
-                                            </div>
-                                            <div class="entry-body">
-                                                <p>Trendsalon has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley...</p>
-                                            </div>
-                                            <div class="entry-metadata">
-                                                <p class="author">
-                                                    <i class="fa fa-user"></i>
-                                                    <a href="author/ram/index.html" title="View all posts by ram">ram</a>
-                                                </p>
-                                                <p class="tags"><i class="fa fa-tag"></i> <a href="tag/technology/index.html">Technology</a>, <a href="tag/trend/index.html">Trend</a>
-                                                </p>
+                                                <h3><a href="#" title="Hair Stylists bring out the Beauty in you">Балерия куцан</a></h3>
                                             </div>
                                             <div class="clear"></div>
                                         </div>
                                     </article>
                                 </div>
-                                <div class="column dt-sc-one-third     " style="         ">
+                                <div class="column dt-sc-one-third" style="">
                                     <article class="blog-entry type2 post-3760 post type-post status-publish format-status has-post-thumbnail hentry category-creativity category-goals category-soft-skills tag-inspiration tag-technology tag-web-2-0 post_format-post-format-status">
                                         <div class="entry-thumb">
                                             <a href="#" title="50% OFF only on App Booking">
-                                                <img width="1170" height="767" src="{THEME}/images/06/blog15.jpg" class="attachment-trendsalon-1170x767 size-trendsalon-1170x767 wp-post-image" alt="blog15" sizes="(max-width: 1170px) 100vw, 1170px" />
+                                                <img width="1170" height="767" src="{THEME}/images/bella/event2.jpg" class="attachment-trendsalon-1170x767 size-trendsalon-1170x767 wp-post-image" alt="blog15" sizes="(max-width: 1170px) 100vw, 1170px" />
                                             </a>
                                         </div>
                                         <div class="entry-details">
                                             <div class="dt-sc-margin20"></div>
                                             <div class="entry-title">
-                                                <h3><a href="#" title="50% OFF only on App Booking">50% OFF only on App Booking</a></h3>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <div class="entry-meta-date">
-                                                    <h6>
-								09 <br> May
-                            </h6>
-                                                </div>
-                                                <div class="entry-meta-format">
-                                                    <a href="2015/04/16/50-off-only-on-app-booking/index.html" title="50% OFF only on App Booking" class="entry_format"></a>
-                                                </div>
-                                            </div>
-                                            <div class="entry-body">
-                                                <p>The true victim in this feud is silent Hill...a series in desperate need of reinvention as the modern horror landscape flows...</p>
-                                            </div>
-                                            <div class="entry-metadata">
-                                                <p class="author">
-                                                    <i class="fa fa-user"></i>
-                                                    <a href="author/ram/index.html" title="View all posts by ram">ram</a>
-                                                </p>
-                                                <p class="tags"><i class="fa fa-tag"></i> <a href="tag/inspiration/index.html">Inspiration</a>, <a href="tag/technology/index.html">Technology</a>, <a href="tag/web-2-0/index.html">Web 2.0</a>
-                                                </p>
+                                                <h3><a href="#" title="shine jiliin budalgiin">Шинэ жилийн будалгын</a></h3>
                                             </div>
                                             <div class="clear"></div>
                                         </div>
                                     </article>
                                 </div>
-                                <div class="column dt-sc-one-third     " style="         ">
+                                <div class="column dt-sc-one-third" style="">
                                     <article class="blog-entry type2 post-3761 post type-post status-publish format-gallery has-post-thumbnail hentry category-goals category-soft-skills category-technology tag-festival tag-learning post_format-post-format-gallery">
                                         <ul class="recent-gallery">
-                                            <li><img src="{THEME}/images/06/blog5.jpg" width="1170" height="767" alt="Home" title="Home" />
+                                            <li><img src="{THEME}/images/bella/event3.jpg" alt="Home" title="Home" />
                                             </li>
-                                            <li><img src="{THEME}/images/06/blog11.jpg" width="1170" height="767" alt="Home" title="Home" />
-                                            </li>
-                                            <li><img src="{THEME}/images/06/blog12.jpg" width="1170" height="767" alt="Home" title="Home" />
-                                            </li>
-                                            <li><img src="{THEME}/images/06/blog13.jpg" width="1170" height="767" alt="Home" title="Home" />
+                                            <li><img src="{THEME}/images/bella/event2.jpg" alt="Home" title="Home" />
                                             </li>
                                         </ul>
                                         <div class="entry-details">
                                             <div class="dt-sc-margin20"></div>
                                             <div class="entry-title">
-                                                <h3><a href="2015/04/16/meet-the-new-hair-styles-and-be-ready-for-change/index.html" title="Meet the new Hair Styles and be ready for change">Meet the new Hair Styles and be ready for change</a></h3>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <div class="entry-meta-date">
-                                                    <h6>
-								09 <br> May
-                            </h6>
-                                                </div>
-                                                <div class="entry-meta-format">
-                                                    <a href="2015/04/16/meet-the-new-hair-styles-and-be-ready-for-change/index.html" title="Meet the new Hair Styles and be ready for change" class="entry_format"></a>
-                                                </div>
-                                            </div>
-                                            <div class="entry-body">
-                                                <p>Hair Styles has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a...</p>
-                                            </div>
-                                            <div class="entry-metadata">
-                                                <p class="author">
-                                                    <i class="fa fa-user"></i>
-                                                    <a href="author/ram/index.html" title="View all posts by ram">ram</a>
-                                                </p>
-                                                <p class="tags"><i class="fa fa-tag"></i> <a href="tag/festival/index.html">Festival</a>, <a href="tag/learning/index.html">Learning</a>
-                                                </p>
+                                                <h3><a href="#" title="Meet the new Hair Styles and be ready for change">Шоу үзүүлбэр</a></h3>
                                             </div>
                                             <div class="clear"></div>
                                         </div>
@@ -873,83 +722,39 @@
                         </div>
                     </div>
                     <div class="dt-sc-margin80"></div>
-                    <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Our Pricing Plans</h2>
+                    <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Үйлчилгээний тариф</h2>
                     <div class="dt-sc-margin80"></div>
-                    <div class="full-width-section    dt-responsive-column " style="background-image:url({THEME}/images/price-left-new.png);background-repeat:no-repeat;background-position:center top;">
-                        <div class="column dt-sc-two-fifth    first " style="         "></div>
-                        <div class="column dt-sc-two-fifth     " style="         ">
+                    <div class="full-width-section dt-responsive-column">
+                        <div class="column dt-sc-four-fifth first" style=""></div>
+                        <div class="column dt-sc-four-fifth" style="">
                             <div class="dt-sc-content-carousel-wrapper " data-autoscroll="" data-scroll="">
-                                <div class="dt-sc-content-carousel " data-columns="3">
-                                    <div class="column dt-sc-one-half     " style="         ">
+                                <div class="dt-sc-content-carousel " data-columns="4">
+                                    <div class="column dt-sc-one-fourth" style="">
                                         <ul class='dt-sc-fancy-list  menu-card tick'>
-                                            <li>Women&#8217;s haircut <i> $75 </i>
-                                            </li>
-                                            <li>Shampoo And Style <i> $55 </i>
-                                            </li>
-                                            <li>Blow Dry Style <i> $49 </i>
-                                            </li>
-                                            <li>Thermal Press Style <i> $51 </i>
-                                            </li>
-                                            <li>Dandruff Rinse <i> $25 </i>
-                                            </li>
-                                            <li>Hair Coloring <i> $30 </i>
-                                            </li>
-                                            <li>Hair Color Removal <i> $35 </i>
-                                            </li>
-                                            <li>Hair And Scalp <i> $19 </i>
-                                            </li>
-                                            <li>Lash And Brow Tint <i> $38 </i>
-                                            </li>
-                                            <li>Cap Frosting <i> $25 </i>
-                                            </li>
+                                            <li>Энгийн будалт</li>
+                                            <li>Бэлла:<i>100'000₮</i></li>
+                                            <li>Артистууд:<i>60'000₮</i></li>
                                         </ul>
                                     </div>
-                                    <div class="column dt-sc-one-half     " style="         ">
+                                    <div class="column dt-sc-one-fourth" style="">
                                         <ul class='dt-sc-fancy-list  menu-card tick'>
-                                            <li>Women&#8217;s haircut <i> $75 </i>
-                                            </li>
-                                            <li>Shampoo And Style <i> $55 </i>
-                                            </li>
-                                            <li>Blow Dry Style <i> $49 </i>
-                                            </li>
-                                            <li>Thermal Press Style <i> $51 </i>
-                                            </li>
-                                            <li>Dandruff Rinse <i> $25 </i>
-                                            </li>
-                                            <li>Hair Coloring <i> $30 </i>
-                                            </li>
-                                            <li>Hair Color Removal <i> $35 </i>
-                                            </li>
-                                            <li>Hair And Scalp <i> $19 </i>
-                                            </li>
-                                            <li>Lash And Brow Tint <i> $38 </i>
-                                            </li>
-                                            <li>Cap Frosting <i> $25 </i>
-                                            </li>
+                                            <li>Гоёлын будалт</li>
+                                            <li>Бэлла:<i>150'000₮</i></li>
+                                            <li>Артистууд:<i>80'000₮</i></li>
                                         </ul>
                                     </div>
-                                    <div class="column dt-sc-one-half     " style="         ">
+                                    <div class="column dt-sc-one-fourth" style="">
                                         <ul class='dt-sc-fancy-list  menu-card tick'>
-                                            <li>Women&#8217;s haircut <i> $75 </i>
-                                            </li>
-                                            <li>Shampoo And Style <i> $55 </i>
-                                            </li>
-                                            <li>Blow Dry Style <i> $49 </i>
-                                            </li>
-                                            <li>Thermal Press Style <i> $51 </i>
-                                            </li>
-                                            <li>Dandruff Rinse <i> $25 </i>
-                                            </li>
-                                            <li>Hair Coloring <i> $30 </i>
-                                            </li>
-                                            <li>Hair Color Removal <i> $35 </i>
-                                            </li>
-                                            <li>Hair And Scalp <i> $19 </i>
-                                            </li>
-                                            <li>Lash And Brow Tint <i> $38 </i>
-                                            </li>
-                                            <li>Cap Frosting <i> $25 </i>
-                                            </li>
+                                            <li>Сургалт</li>
+                                            <li>Бэлла:<i>1'500'000₮</i></li>
+                                            <li>Артистууд:<i>800'000₮</i></li>
+                                        </ul>
+                                    </div>
+                                    <div class="column dt-sc-one-fourth" style="">
+                                        <ul class='dt-sc-fancy-list  menu-card tick'>
+                                            <li>Групп сургалт</li>
+                                            <li>Бэлла:<i>200'000</i></li>
+                                            <li>Артистууд:<i>...</i></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -959,101 +764,38 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="column dt-sc-one-fifth     " style="         "></div>
-                    </div>
-                    <div class="full-width-section    ">
-                        <div class="container">
-                            <div class="dt-sc-margin80"></div>
-                            <h2 class="dt-sc-border-title  aligncenter  animate" data-animation="flipInY" data-delay="200">Client Testimonials</h2>
-                            <div class="dt-sc-margin30"></div>
-                            <div class="dt-sc-content-carousel-wrapper " data-autoscroll="true" data-scroll="">
-                                <div class="dt-sc-content-carousel " data-columns="1">
-
-                                    <div class="column dt-sc-one-column">
-                                        <div class="dt-sc-testimonial type1">
-                                            <div class="author"><img src="{THEME}/images/testimonial-img1.jpg" alt="Author" />
-                                            </div>
-                                            <div class="dt-sc-hr-invisible-small"></div>
-                                            <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                                <br /> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                                <br /> ullamco laboris nisi ut aliquip ex ea commodo consequat uis aute irure dolor</blockquote>
-                                            <div class="author-detail">
-                                                Sarah Mitchell <span>Duis aute irure</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="column dt-sc-one-column">
-                                        <div class="dt-sc-testimonial type1">
-                                            <div class="author"><img src="{THEME}/images/testimonial-img2.jpg" alt="Author" />
-                                            </div>
-                                            <div class="dt-sc-hr-invisible-small"></div>
-                                            <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                                <br /> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                                <br /> ullamco laboris nisi ut aliquip ex ea commodo consequat uis aute irure dolor</blockquote>
-                                            <div class="author-detail">
-                                                Sarah Mitchell <span>Duis aute irure</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="column dt-sc-one-column">
-                                        <div class="dt-sc-testimonial type1">
-                                            <div class="author"><img src="{THEME}/images/testimonial-img3.jpg" alt="Author" />
-                                            </div>
-                                            <div class="dt-sc-hr-invisible-small"></div>
-                                            <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                                <br /> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                                <br /> ullamco laboris nisi ut aliquip ex ea commodo consequat uis aute irure dolor</blockquote>
-                                            <div class="author-detail">
-                                                Sarah Mitchell <span>Duis aute irure</span>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="dt-sc-content-carousel-arrows type3 ">
-                                    <a href="#" class="prev"><span class="fa fa-angle-left"></span></a>
-                                    <a href="#" class="next"><span class="fa fa-angle-right"></span></a>
-                                </div>
-                            </div>
-                            <div class="dt-sc-margin80"></div>
-                        </div>
-                    </div>
+                        <div class="column dt-sc-one-fifth" style=" "></div>
+                    </div>      
                 </div>
             </div>
-
+			<div class="dt-sc-margin80"></div>
             <footer id="footer">
-
                 <div class="footer-widgets-wrapper type4">
                     <div class="container">
                         <div class='column dt-sc-one-fourth first'>
                             <aside id="text-4" class="widget widget_text">
-                                <h3 class="widget-title">Location </h3>
+                                <h3 class="widget-title">ХОЛБОО БАРИХ</h3>
                                 <div class="textwidget">
-                                    <p class="dt-sc-contact-info "><i class="fa fa-map-marker"></i>2145 - 007 - 1566 No 45, Season Street, Livingstone LA, Inc - 4502</p>
+                                    <p class="dt-sc-contact-info "><i class="fa fa-map-marker"></i>Сүхбаатар дүүрэг, 1-р хороо, Чингисийн өргөн чөлөө-14251, Гэрэгэ тауэр 4-р давхар</p>
                                 </div>
                             </aside>
                             <aside id="text-5" class="widget widget_text">
-                                <h3 class="widget-title">Telephone <span class="wlast">Enquiry</span></h3>
+                                <h3 class="widget-title">УТАС:</h3>
                                 <div class="textwidget">
-                                    <p class="dt-sc-contact-info skin-color"><i class="fa fa-phone"></i>+91 214 658 7852</p>
+                                    <p class="dt-sc-contact-info skin-color"><i class="fa fa-phone"></i> +976 8999 2681</p>
                                 </div>
                             </aside>
                         </div>
                         <div class='column dt-sc-one-fourth '>
                             <aside id="text-7" class="widget widget_text">
-                                <h3 class="widget-title">Salons </h3>
+                                <h3 class="widget-title">БЭЛЛА САЛОН </h3>
                                 <div class="textwidget">
                                     <ul>
-                                        <li><a href="#"> About Us</a>
-                                        </li>
-                                        <li><a href="#"> Salons </a>
-                                        </li>
-                                        <li><a href="#"> Giftcards </a>
-                                        </li>
-                                        <li><a href="#"> Terms &amp; Conditions </a>
-                                        </li>
-                                        <li><a href="#"> Work With Us </a>
-                                        </li>
+                                        <li><a href="#"> Бидний тухай</a></li>
+                                        <li><a href="#"> танилцуулга </a></li>
+                                        <li><a href="#"> Үйлчилгээ </a></li>
+                                        <li><a href="#"> Хичээл </a></li>
+                                        <li><a href="#"> E-SHOP </a></li>
                                     </ul>
                                 </div>
                             </aside>
@@ -1094,17 +836,13 @@
                                 <div id="ajax_newsletter_msg"></div>
                             </aside>
                             <aside id="text-2" class="widget widget_text">
-                                <h3 class="widget-title">Follow <span class="wlast">Us</span></h3>
+                                <h3 class="widget-title">БИДНИЙГ <span class="wlast">ДАГААРАЙ</span></h3>
                                 <div class="textwidget">
                                     <ul class="dt-sc-social-icons  without-border ">
-                                        <li><a href="#" target="_blank" title="facebook" class="facebook"><i class="fa fa-facebook"></i></a>
-                                        </li>
-                                        <li><a href="#" target="_blank" title="twitter" class="twitter"><i class="fa fa-twitter"></i></a>
-                                        </li>
-                                        <li><a href="#" target="_blank" title="googleplus" class="googleplus"><i class="fa fa-google-plus"></i></a>
-                                        </li>
-                                        <li><a href="#" target="_blank" title="youtube" class="youtube"><i class="fa fa-youtube"></i></a>
-                                        </li>
+                                        <li><a href="#" target="_blank" title="facebook" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" target="_blank" title="twitter" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#" target="_blank" title="googleplus" class="googleplus"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#" target="_blank" title="youtube" class="youtube"><i class="fa fa-youtube"></i></a></li>
                                     </ul>
                                 </div>
                             </aside>
@@ -1113,25 +851,20 @@
                 </div>
                 <div class="copyright">
                     <div class="container">
-                        <p>Trendsalon theme by designthemes. © 2016 <a href="http://themeforest.net/user/designthemes" title="DesignThemes">Design Themes</a>
-                        </p>
+                        <p>Зохиогчын эрх хуулиар хамгаалагдсан ©. 2017 он. Вэбсайтыг хөгжүүлсэн <a href="http://www.tagtaasolution.mn/" title="Тагтаа Солюшн ХХК">Тагтаа Солюшин.</a></p>
                         <ul id="menu-footer-menu" class="footer-links">
-                            <li id="menu-item-9540" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8428 current_page_item menu-item-depth-0 menu-item-simple-parent "><a href="index.html">Home</a>
-                                <li id="menu-item-9541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="about-us/index.html">About us</a>
-                                    <li id="menu-item-9542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="blog/index.html">Blog</a>
-                                        <li id="menu-item-3883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="portfolio/index.html">Portfolio</a>
-                                            <li id="menu-item-9544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="shortcodes/index.html">Shortcodes</a>
-                                                <li id="menu-item-9543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="contact/index.html">Contact</a>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8428 current_page_item menu-item-depth-0 menu-item-simple-parent "><a href="#">НҮҮР</a>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="#">БИДНИЙ ТУХАЙ</a>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="#">ТАНИЛЦУУЛГА</a>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="#">ҮЙЛЧИЛГЭЭ</a>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="#">E-SHOP</a>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-simple-parent "><a href="#">ХОЛБОО БАРИХ</a>
                         </ul>
                     </div>
                 </div>
-
             </footer>
-
-
         </div>
     </div>
-
     <script type="text/javascript">
         function revslider_showDoubleJqueryError(sliderID) {
             var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
@@ -1142,129 +875,20 @@
             jQuery(sliderID).show().html(errorMessage);
         }
     </script>
-    <script type='text/javascript' src='{THEME}/js/jsscplugins1c9b.js?ver=4.6.1'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var DtObject = {
-            "ajaxError": "Something went wrong!",
-            "expand": "Expand",
-            "collapse": "Collapse"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='{THEME}/js/shortcodes1c9b.js?ver=4.6.1'></script>
-    <script type='text/javascript' src='{THEME}/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var _wpcf7 = {
-            "loaderUrl": "http:\/\/wedesignthemes.com\/themes\/dt-trendsalon\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif",
-            "recaptcha": {
-                "messages": {
-                    "empty": "Please verify that you are not a robot."
-                }
-            },
-            "sending": "Sending ..."
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='{THEME}/js/scripts11b8.js?ver=4.5'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var dtAppointmentCustom = {
-            "plugin_url": "http:\/\/wedesignthemes.com\/themes\/dt-trendsalon\/wp-content\/plugins\/designthemes-appointment-addon\/",
-            "chooseService": "Please choose Service!",
-            "erName": "Please enter name!",
-            "erEmail": "Please enter valid email!",
-            "erPhone": "Please enter Phone number!",
-            "erNotes": "Please enter Notes!",
-            "paymentAfterarrival": "Next",
-            "paymentPaypal": "Make Payment",
-            "day": "Day",
-            "time": "Time",
-            "store": "Store",
-            "service": "Service",
-            "staff": "Staff",
-            "name": "Name",
-            "address1": "Address 1",
-            "address2": "Address 2",
-            "city": "City",
-            "state": "State",
-            "zip": "Zip",
-            "phone": "Phone",
-            "email": "Email"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='{THEME}/js/dt.public1c9b.js?ver=4.6.1'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wc_add_to_cart_params = {
-            "ajax_url": "\/themes\/dt-trendsalon\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/themes\/dt-trendsalon\/?wc-ajax=%%endpoint%%",
-            "i18n_view_cart": "View Cart",
-            "cart_url": "http:\/\/wedesignthemes.com\/themes\/dt-trendsalon\/cart\/",
-            "is_cart": "",
-            "cart_redirect_after_add": "no"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='{THEME}/js/add-to-cart.min72e6.js?ver=2.6.4'></script>
-    <script type='text/javascript' src='{THEME}/js/jquery.blockUI.min44fd.js?ver=2.70'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var woocommerce_params = {
-            "ajax_url": "\/themes\/dt-trendsalon\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/themes\/dt-trendsalon\/?wc-ajax=%%endpoint%%"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='{THEME}/js/woocommerce.min72e6.js?ver=2.6.4'></script>
-    <script type='text/javascript' src='{THEME}/js/jquery.cookie.min330a.js?ver=1.4.1'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wc_cart_fragments_params = {
-            "ajax_url": "\/themes\/dt-trendsalon\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/themes\/dt-trendsalon\/?wc-ajax=%%endpoint%%",
-            "fragment_name": "wc_fragments"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='{THEME}/js/cart-fragments.min72e6.js?ver=2.6.4'></script>
-    <script type='text/javascript' src='{THEME}/js/jquery.prettyPhoto.minc6bd.js?ver=3.1.5'></script>
-    <script type='text/javascript' src='{THEME}/js/jquery.prettyPhoto.init.min72e6.js?ver=2.6.4'></script>
-    <script type='text/javascript' src='{THEME}/js/jquery.selectBox.min7359.js?ver=1.2.0'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var yith_wcwl_l10n = {
-            "ajax_url": "\/themes\/dt-trendsalon\/wp-admin\/admin-ajax.php",
-            "redirect_to_cart": "no",
-            "multi_wishlist": "",
-            "hide_add_button": "1",
-            "is_user_logged_in": "",
-            "ajax_loader_url": "http:\/\/wedesignthemes.com\/themes\/dt-trendsalon\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif",
-            "remove_from_wishlist_after_add_to_cart": "yes",
-            "labels": {
-                "cookie_disabled": "We are sorry, but this feature is available only if cookies are enabled on your browser.",
-                "added_to_cart_message": "<div class=\"woocommerce-message\">Product correctly added to cart<\/div>"
-            },
-            "actions": {
-                "add_to_wishlist_action": "add_to_wishlist",
-                "remove_from_wishlist_action": "remove_from_wishlist",
-                "move_to_another_wishlist_action": "move_to_another_wishlsit",
-                "reload_wishlist_and_adding_elem_action": "reload_wishlist_and_adding_elem"
-            }
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='{THEME}/js/jquery.yith-wcwl9c6b.js?ver=2.0.16'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var DtCustomObject = {
-            "advOptions": "Show Advanced Options"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='{THEME}/js/custom1c9b.js?ver=4.6.1'></script>
+    <script type='text/javascript' src='{THEME}/js/jsscplugins1c9b.js'></script>
+    <script type='text/javascript' src='{THEME}/js/shortcodes1c9b.js'></script>
+    <script type='text/javascript' src='{THEME}/js/jquery.form.mind03d.js'></script>
+    <script type='text/javascript' src='{THEME}/js/scripts11b8.js'></script>
+    <script type='text/javascript' src='{THEME}/js/dt.public1c9b.js'></script>
+    <script type='text/javascript' src='{THEME}/js/add-to-cart.min72e6.js'></script>
+    <script type='text/javascript' src='{THEME}/js/jquery.blockUI.min44fd.js'></script>
+    <script type='text/javascript' src='{THEME}/js/jquery.cookie.min330a.js'></script>
+    <script type='text/javascript' src='{THEME}/js/cart-fragments.min72e6.js'></script>
+    <script type='text/javascript' src='{THEME}/js/jquery.prettyPhoto.minc6bd.js'></script>
+    <script type='text/javascript' src='{THEME}/js/jquery.prettyPhoto.init.min72e6.js'></script>
+    <script type='text/javascript' src='{THEME}/js/jquery.selectBox.min7359.js'></script>
+    <script type='text/javascript' src='{THEME}/js/jquery.yith-wcwl9c6b.js'></script>
+    <script type='text/javascript' src='{THEME}/js/custom1c9b.js'></script>
     <script type='text/javascript'>
         var mytheme_urls = {
             theme_base_url: 'http://wedesignthemes.com/themes/dt-trendsalon/wp-content/themes/trendsalon',
@@ -1290,5 +914,4 @@
     <script type='text/javascript' src='{THEME}/js/jquery.cookie.min1c9b.js'></script>
     <script type='text/javascript' src='{THEME}/js/wp-embed.min1c9b.js'></script>
 </body>
-
 </html>
