@@ -1,299 +1,67 @@
-
-<div class=" full-story">
-        	
-        <div class="blog_post">	
-            <div class="blog_postcontent">
+<article id="post-" class="gallery-single post-3660 dt_portfolios type-dt_portfolios status-publish has-post-thumbnail hentry portfolio_entries-facial-therapy portfolio_entries-haircut-styling">
+    <div class="recent-gallery-container">
+        <ul class="recent-gallery">
+            <li><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2015/04/gallery07-1200x800.jpg" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
+            </li>
+            [xfgiven_youtube]
+            <li>
+                <div class="dt-video-wrap">
+                    <iframe src="https://player.vimeo.com/video/46926279" width="1170" height="658" frameborder="0" title="Dummy Video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                </div>
+            </li>
+            [/xfgiven_youtube]
+            <li><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery01-1200x800.jpg" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
+            </li>
+            <li><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery02-1200x800.jpg" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
+            </li>
+            <li><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery12-1200x800.jpg" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
+            </li>
+        </ul>
+        <div id="bx-pager">
+            <a href="#" data-slide-index="0"><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2015/04/gallery07-1200x800.jpg" alt="Elegant curls" title="Elegant curls" />
+            </a>
+            [xfgiven_youtube]
+            <a href="#" data-slide-index="1"><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/plugins/designthemes-core-features/custom-post-types/images/video-thumb.jpg" alt="Elegant curls" title="Elegant curls" />
+            </a>
+            [/xfgiven_youtube]
+            <a href="#" data-slide-index="2"><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery01-1200x800.jpg" alt="Elegant curls" title="Elegant curls" />
+            </a>
+            <a href="#" data-slide-index="3"><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery02-1200x800.jpg" alt="Elegant curls" title="Elegant curls" />
+            </a>
+            <a href="#" data-slide-index="4"><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery12-1200x800.jpg" alt="Elegant curls" title="Elegant curls" />
+            </a>
+        </div>
+    </div>
+    <div style="position:relative;" class="gallery-single-container">
+        <div class="dt-sc-hr-invisible-very-very-small"></div>
+        <div class="column dt-sc-two-third first">
             <h3>{title}</h3>
-                <ul class="post_meta_links">
-                    <li>{date}</li>
-                    <li class="post_by"><i>Нийтэлсэн:</i>{author}</li>
-                    <li class="post_categoty"><i>Ангилал:</i>{category}</li>
-                    <li class="post_comments"><i>Сэтгэгдэл:</i>{comments-num}</li>
-                </ul>
-              <div class="margin_top1"></div>
-             <div class="sharepost">
-				<h5 class="light">Бусадтай хуваалцах</h5>
-					<ul>
-						<li><a href="#">&nbsp;<i class="fa fa-facebook fa-lg"></i>&nbsp;</a></li>
-						<li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-google-plus fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-						<li><a href="#"><i class="fa fa-flickr fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-dribbble fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-html5 fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-skype fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-youtube fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-pinterest fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linux fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-android fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-rss fa-lg"></i></a></li>
-					</ul>
-				
-				</div><!-- end share post links -->
-             <div class="clearfix"></div>
-            
-            {full-story}
+            <div class="portfolio-meta-data">
+                <h6><a href="#" rel="tag">{category}</a></h6>
             </div>
-        </div><!-- /# end post -->
+            <p>{full-story limit="5000"}</p>
             
-            <div class="clearfix divider_line9 lessm"></div>
+        </div>
+        <div class="column dt-sc-one-third">
 
-            
-            <div class="sharepost">
-				<h5 class="light">Бусадтай хуваалцах</h5>
-					<ul>
-						<li><a href="#">&nbsp;<i class="fa fa-facebook fa-lg"></i>&nbsp;</a></li>
-						<li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-google-plus fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-						<li><a href="#"><i class="fa fa-flickr fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-dribbble fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-html5 fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-skype fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-youtube fa-lg"></i></a></li>
-						<li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-pinterest fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linux fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-android fa-lg"></i></a></li>
-                        <li><a href="#"><i class="fa fa-rss fa-lg"></i></a></li>
-					</ul>
-				
-				</div><!-- end share post links -->
-                
-                <div class="clearfix"></div>
-                
-            
-    <div class="clearfix divider_line9 lessm"></div>        
-</div><!-- end content left side -->
-
-<style>
-    .full-story{
-    	text-align:justify;
-    }
-    .full-story img{
-    	max-width:100%;
-    }
-    .blog_post a.date {
-    color: #454545;
-    font-size: 16px;
-    font-weight: normal;
-}
-/* blog */
-.blog_post {
-	float: left;
-	width: 100%;
-}
-.blog_post h3 {
-	text-align: left;
-	color: #333;
-	line-height: 30px;
-	display: block;
-}
-.blog_post h3 a {
-	color: #9eca45;
-	text-decoration: none;
-	margin-top: 3px;
-	text-transform: none;
-	font-weight: 400;
-	font-size: 30px;
-}
-.blog_post h3 a:hover {
-	color: #383634;
-}
-ul.post_meta_links {
-	float: left;
-	margin: -5px 0px 0px 0px;
-	padding: 0px 0px 0px 0px;
-}
-.post_meta_links li {
-	float: left;
-	margin: 0px;
-	padding: 0px 0px 0px 4px;
-	list-style-type: none;
-	color: #999;
-}
-.post_meta_links li a {
-	color: #999;
-	padding: 0px 18px 0px 0px;
-	text-decoration: none;
-	font-size: 11px;
-	text-transform: uppercase;
-}
-.post_meta_links li a:hover {
-	color: #727272;
-	text-decoration: none;
-}
-.post_meta_links li i {
-	color: #bbb;
-	font-size: 12px;
-	font-style: normal;
-}
-.blog_postcontent {
-	float: left;
-	width: 100%;
-}
-.blog_postcontent .image_frame {
-	float: left;
-	width: 100%;
-	margin-bottom: 27px;
-}
-
-.blog_postcontent .image_frame.mone {
-	float: left;
-	width: 100%;
-	height: 280px;
-	overflow: hidden;
-}
-.blog_postcontent .image_frame.mtwo {
-	float: left;
-	width: 100%;
-	height: 180px;
-	overflow: hidden;
-}
-.blog_postcontent .image_frame.mthree {
-	float: left;
-	width: 100%;
-	height: 480px;
-	overflow: hidden;
-}
-.blog_postcontent .image_frame.mone img,
-.blog_postcontent .image_frame.mtwo img,
-.blog_postcontent .image_frame.mthree img {
-	float: left;
-	width: auto;
-	margin-left: -45%;
-	margin-top: -10%;
-}
-
-
-.blog_postcontent .video_frame.mtwo iframe {
-	float: left;
-	width: 100%;
-	height: 280px;
-	overflow: hidden;
-}
-
-
-.blog_postcontent .image_frame.small {
-	float: left;
-	width: 43%;
-	border: 7px solid #fff;
-	margin-bottom: 25px;
-	-webkit-box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.1);
-	box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.1);
-}
-.blog_postcontent .image_frame.small:hover {
-	border: 7px solid #f9f9f9;
-}
-.blog_postcontent .image_frame img {
-	float: left;
-	width: 100%;
-}
-.blog_postcontent .video_frame.small iframe {
-	height: 250px;
-}
-.blog_postcontent .video_frame iframe {
-	float: left;
-	width: 100%;
-	height: 520px;
-	margin-bottom: 27px;
-}
-.post_info_content_small {
-	padding: 0px;
-	margin: 0 0 0 4%;
-	width: 50%;
-	float: left;
-}
-ul.post_meta_links_small {
-	float: left;
-	margin: -15px 0px 12px 80px;
-	padding: 0px 0px 0px 0px;
-	width: 80%;
-}
-.post_meta_links_small li a {
-	color: #a1a1a1;
-	padding: 0px 5px 0px 0px;
-	text-decoration: none;
-	font-size: 11px;
-}
-.post_meta_links_small li a:hover {
-	color: #727272;
-	padding: 0px 5px 0px 0px;
-	text-decoration: none;
-	font-size: 11px;
-}
-.blog_post a.date {
-	color: #454545;
-	font-size: 16px;
-	font-weight: normal;
-}
-.blog_post a.date:hover {
-	color: #9eca45;
-}
-.post_readmore:link, .post_readmore:visited {
-	float: right;
-	height: 27px;
-	width: 185px;
-	text-align: center;
-	padding-top: 7px;
-	color: #fff;
-	text-decoration: none;
-	background: url(../images/skin01/but_post_readmore.html) no-repeat left top;
-}
-.post_readmore:hover {
-	float: right;
-	height: 27px;
-	width: 185px;
-	text-align: center;
-	padding-top: 7px;
-	color: #fff;
-	text-decoration: none;
-	background: url(../images/skin01/but_post_readmore_hover.html) no-repeat left top;
-}
-.sharepost {
-	float: left;
-	width: 80%;
-	margin-bottom: 40px;
-}
-.sharepost ul {
-	margin: 0px;
-	padding: 0px;
-}
-.sharepost li {
-	margin: 0px 7px 5px 0px;
-	padding: 2px 5px;
-	float: left;
-	border-radius: 2px;
-	list-style-type: none;
-	background-color: #9eca45;
-	transition: all 0.3s ease;
-}
-.sharepost li i {
-	color: #fff;
-}
-.sharepost li:hover {
-	background-color: #383634;
-}
-
-.about_author {
-	float: left;
-	width: 100%;
-	padding: 20px;
-	background-color: #f9f9f9;
-	border: 1px solid #eee;
-}
-.about_author img {
-	float: left;
-	margin-right: 20px;
-}
-.about_author a {
-	font-family: 'Open Sans' !important;
-	font-weight: normal;
-	font-weight: 600;
-	color: #333;
-}
-.about_author a:hover {
-	color: #9eca45;
-}
-</style>
+            <ul class="portfolio-details">
+                <li>
+                    <span>Огноо :</span> {date=d} {date=m} {date=y}</li>
+                <li>
+                    <span>{author} :</span>
+                    <a href="{full-link}" title="View all posts by ">{category}</a>
+                </li>
+            </ul>
+            <div class="dt-sc-hr-invisible-small"></div>
+            <ul class="dt-sc-social-icons">
+                <li><a href="#" title="instagram" class="instagram" target="_blank"> <span class="fa fa-instagram"></span></a></li>
+                <li><a href="#" title="facebook" class="facebook" target="_blank"> <span class="fa fa-facebook"></span></a></li>
+                <li><a href="#" title="twitter" class="twitter" target="_blank"> <span class="fa fa-twitter"></span></a></li>
+                <li><a href="#" title="youtube" class="youtube" target="_blank"> <span class="fa fa-youtube"></span></a></li>
+                <li><a href="#" title="googleplus" class="googleplus" target="_blank"> <span class="fa fa-google-plus"></span> </a></li>
+            </ul>
+        </div>
+        <div class="dt-sc-margin60"></div>
+    </div>
+    <div class="dt-sc-hr-invisible"></div>
+</article>

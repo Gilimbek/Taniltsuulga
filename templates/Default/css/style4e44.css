@@ -1206,7 +1206,14 @@ Text Domain: trendsalon
 	.border-title.type2 span { background: #fff; padding: 0 12px 0 0; position:relative; top:-2px; }
 	.border-title.type2 { background: url(images/title-pattern.html) repeat-x center; display: block; margin:0 0 40px; clear:both; }
 	
-	.dt-sc-border-title { position:relative; color: #282828; font-weight: 100; margin-bottom: 50px; clear:both; }	
+	.dt-sc-border-title { 
+        position:relative; 
+        color: #282828; 
+        font-weight: 100; 
+        margin-bottom: 50px; 
+        clear:both;
+        text-transform:uppercase;
+    }	
 	.dt-sc-border-title:before { 
 	background: url("../images/heading-bottom.png") no-repeat top center; 
 	bottom: -40px; 

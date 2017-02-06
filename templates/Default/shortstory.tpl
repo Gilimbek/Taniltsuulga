@@ -1,58 +1,29 @@
-<div class="col-md-4 short-story">
-    <a href="{full-link}">
-        <div  class="short-story-img-wrap">
-            <div style="background:url('{image-1}')" class="short-story-img-bg">
+<div class="column dt-sc-one-third first isotope-item" style="position: absolute; left: 796px; top: 1291px;">
+    <article class="blog-entry type2 post-3762 post type-post status-publish format-video hentry category-technology category-video tag-inspiration tag-trend post_format-post-format-video">
+        <div class="entry-thumb" style="background:url('{image-1}'); background-size:cover;"><div class="dt-video-wrap"><div class="fluid-width-video-wrapper" style="padding-top: 56.2393%;">[xfgiven_youtube][xfvalue_youtube][/xfgiven_youtube]</div></div></div>          
+        <div class="entry-details">
+            <div class="dt-sc-margin20"></div>
+            <div class="entry-title">
+                <h3><a href="{full-link}" title="{title}">{title}</a></h3>
             </div>
-
+            <div class="entry-meta ">
+                <div class="entry-meta-date ">
+                    <h6>{date=y} <br> {date=m}</h6>
+                </div>
+                <div class="entry-meta-format ">
+                    <a href="{full-link}" title="{title}" class="entry_format"></a>
+                </div>
+            </div>
+            <div class="entry-body">
+                <p>{short-story limit="200"}...</p></div>
+            <div class="entry-metadata">
+                <p class="author ">
+                    <i class="fa fa-user"></i>
+                    {author}
+                </p>
+                <p class="tags "><i class="fa fa-tag"></i>{category}</p>                            
+            </div>
+            <div class="clear"></div>
         </div>
-    </a>
-    <a href="{full-link}" class="short-story-title">{title}</a>
-    <div class="short-story-desc">{category}</div>
+    </article>
 </div>
-<style>
-    .short-story{
-    	margin-bottom:30px;
-        transition: all .3s ease-in-out
-    }
-    .short-story-img-wrap{
-    	margin-bottom:11px;
-        height: 200px;
-        width: 100%;
-        overflow:hidden;
-    }
-    .short-story-img-bg{
-        height: 200px;
-        width: 100%;
-    	background-size:cover !important;
-        background-position:50% !important;
-        transition: transform 0.3s ease-in;
-        -webkit-transition: transform 0.3s ease-in;
-       -moz-transition: transform 0.3s ease-in;
-            transition: transform 0.3s ease-in;
-    }
-    .short-story-img-bg:hover{
-        transform:scale(1.1)
-    }
-    .short-story img{
-    	width:100%;
-        height:auto;
-    }
-    .short-story-title{
-    	display:block;
-        font-weight:normal;
-        font-size:15px;
-        line-height:22px;
-        color: #9eca45;
-        text-align:center;
-        height:44px;
-        overflow:hidden;
-    }
-    .short-story-desc{
-    font-size:12px;
-    	line-height:16px;
-        height:16px;
-        overflow:hidden;
-color: #b2b2b2;
-text-align: center;
-    }
-</style>
