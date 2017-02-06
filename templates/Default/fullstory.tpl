@@ -10,11 +10,11 @@
                 </div>
             </li>
             [/xfgiven_youtube]
-            <li><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery01-1200x800.jpg" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
+            <li><img src="{image-1}" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
             </li>
-            <li><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery02-1200x800.jpg" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
+            <li><img src="{image-2}" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
             </li>
-            <li><img src="http://wedesignthemes.com/themes/dt-trendsalon/wp-content/uploads/2016/06/gallery12-1200x800.jpg" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
+            <li><img src="{image-3}" width="1200" height="800" alt="Elegant curls" title="Elegant curls" />
             </li>
         </ul>
         <div id="bx-pager">
@@ -48,7 +48,7 @@
                 <li>
                     <span>Огноо :</span> {date=d} {date=m} {date=y}</li>
                 <li>
-                    <span>{author} :</span>
+                    <span>Ангилал :</span>
                     <a href="{full-link}" title="View all posts by ">{category}</a>
                 </li>
             </ul>

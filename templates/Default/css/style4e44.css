@@ -1145,7 +1145,7 @@ Text Domain: trendsalon
 	.entry-metadata .hidden { display:none; }
 	.blog-entry.blog-single-entry .entry-metadata .hidden, .blog-single-entry .hidden, .blog-entry .entry-metadata .hidden, .blog-entry .entry-meta-options .hidden { display: none; }
 	
-	.format-audio.blog-entry .entry-meta, .format-video.blog-entry .entry-meta { display:none; }
+	.format-audio.blog-entry .entry-meta, .format-video.blog-entry .entry-meta { display:block; }
 	.format-audio.blog-entry .entry-details, .format-video.blog-entry .entry-details { padding: 10px 30px 20px; }
 	.single-post .format-audio.blog-entry .entry-details, .single-post .format-video.blog-entry .entry-details { padding:20px 0 0; }
 	.entry-details .entry-body ul { list-style: outside none disc; padding-left:25px; }

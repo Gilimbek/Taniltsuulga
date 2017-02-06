@@ -7,52 +7,14 @@
         </ul>
     </aside>
     <aside id="dt_recent_posts-3" class="widget widget_recent_entries">
-        <h3 class="widget-title">БЭЛЛА <span class="wlast">САЛОН</span></h3>
+        <h3 class="widget-title">БЭЛЛА САЛОН <span class="wlast"> ХИЧЭЭЛ </span></h3>
         <div class="recent-post-widget">
             <ul>
-                <li>
-                    <a href="#" class="thumb"><img src="{image-1}" alt="">
-                    </a>
-                    <h6><a href="#"></a></h6>
-                    <div class="entry-meta">
-                        <p><span class="fa fa-calendar"></span>{date=m} {date=y}</p>
-                        <p><span class="fa fa-user"></span><a href="#">{author}</a>
-                        </p>
-                    </div>
-                </li>
-                <li>
-                    <a href="../../../2015/04/16/50-off-only-on-app-booking/index.html" class="thumb"><img src="../../../wp-content/uploads/2016/06/blog15-70x70.jpg" alt="50% OFF only on App Booking">
-                    </a>
-                    <h6><a href="../../../2015/04/16/50-off-only-on-app-booking/index.html">50% OFF only on App Booking</a></h6>
-                    <div class="entry-meta">
-                        <p><span class="fa fa-calendar"></span>16Apr2015</p>
-                        <p><span class="fa fa-user"></span><a href="../../../author/ram/index.html">ram</a>
-                        </p>
-                    </div>
-                </li>
-                <li>
-                    <a href="../../../2015/04/17/redefine-your-look-and-cute-hair-cuts-for-2016/index.html" class="thumb"><img src="../../../wp-content/uploads/2016/06/blog2-70x70.jpg" alt="Redefine your Look and Cute Hair Cuts for 2016">
-                    </a>
-                    <h6><a href="../../../2015/04/17/redefine-your-look-and-cute-hair-cuts-for-2016/index.html">Redefine your Look and Cute Hair Cuts for 2016</a></h6>
-                    <div class="entry-meta">
-                        <p><span class="fa fa-calendar"></span>17Apr2015</p>
-                        <p><span class="fa fa-user"></span><a href="../../../author/ram/index.html">ram</a>
-                        </p>
-                    </div>
-                </li>
+                {custom category="5" template="modules/lesson_short" limit="1" from="0" order="date" cache="yes" avaible="global"}
+                {custom category="5" template="modules/lesson_short" limit="1" from="1" order="date" cache="yes" avaible="global"}
+                {custom category="5" template="modules/lesson_short" limit="1" from="2" order="date" cache="yes" avaible="global"}
             </ul>
         </div>
-    </aside>
-    <aside id="rss-3" class="widget widget_rss">
-        <h3 class="widget-title"><a class="rsswidget" href="http://en.blog.wordpress.com/feed/"><img class="rss-widget-icon" style="border:0" src="../../../wp-includes/images/rss.png" alt="RSS" height="14" width="14"></a> <a class="rsswidget" href="https://en.blog.wordpress.com/">The WordPress.com Blog</a></h3>
-        <ul>
-            <li><a class="rsswidget" href="https://en.blog.wordpress.com/2017/01/12/wordpress-com-lightroom/">New WordPress.com for Lightroom Makes Publishing Your Photos Easy</a> <span class="rss-date">January 12, 2017</span>
-                <div class="rssSummary">Our new Lightroom plugin lets you export direct from Lightroom to WordPress.com.</div> <cite>John</cite>
-            </li>
-            <li><a class="rsswidget" href="https://en.blog.wordpress.com/2016/12/16/wordpress-com-in-2016-a-year-in-review/">WordPress.com in 2016: A Year in Review</a> <span class="rss-date">December 16, 2016</span>
-                <div class="rssSummary">To those of you who've made 2016 special: thank you.</div> <cite>marinawoo</cite>
-            </li>
-        </ul>
     </aside>
     <aside id="dt_flickr-3" class="widget flickrbox">
         <h3 class="widget-title">Flickr </h3>
