@@ -1776,7 +1776,7 @@
 	.dt-sc-contact-info.type3 p { margin-bottom:2px; }
 	
 	.dt-sc-working-hours { float:left; width:100%; }
-	.dt-sc-working-hours span { font-weight:bold; color:#222; float:left; width:170px; }
+	.dt-sc-working-hours span { font-weight:bold; color:#222; float:left; width:100px; }
 	.dt-sc-working-hours p:last-child span { float:none; }
 	.dt-sc-location-detail { float:left; width:100%; clear:both; }
 	.dt-sc-location-detail h6 { font-size:13px; font-weight:bold; }

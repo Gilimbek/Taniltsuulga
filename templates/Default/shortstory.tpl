@@ -14,7 +14,7 @@
                     <a href="{full-link}" title="{title}" class="entry_format"></a>
                 </div>
             </div>
-            <div class="entry-body">
+            <div class="entry-body" style="text-align:left;">
                 <p>{short-story limit="200"}...</p></div>
             <div class="entry-metadata">
                 <p class="author ">

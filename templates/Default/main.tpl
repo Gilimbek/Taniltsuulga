@@ -222,10 +222,10 @@
                                             <a href="#">E-SHOP</a>
                                             <a class="dt-menu-expand">+</a>
                                         <li id="menu-item-3979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-megamenu-parent  megamenu-4-columns-group">
-                                            <a href="#">INSTAGRAM</a>
+                                            <a href="https://www.instagram.com/isabellabellasmakeup/">INSTAGRAM</a>
                                             <a class="dt-menu-expand">+</a>
                                         <li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
-                                            <a href="#">ХОЛБОО БАРИХ</a>
+                                            <a href="/contactus">ХОЛБОО БАРИХ</a>
                                     </ul>
                                 </nav>
                             </div>
@@ -234,7 +234,7 @@
                 </header>
             </div>
             [not-available=main]
-            [not-category=3]
+            [not-category=3,6]
             <div id="main">
             	<div class="container">
             		<section id="primary" class="page-with-sidebar with-left-sidebar">
@@ -248,7 +248,7 @@
             </div>
            	[/not-category]
             <div style="clear:both;"></div>
-            [category=3]
+            [category=3,6]
             {info}
             {content}
             [/category]
